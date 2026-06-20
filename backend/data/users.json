@@ -1,0 +1,902 @@
+[
+  {
+    "user_id": "USR_001",
+    "name": "Avni Gupta",
+    "city": "Mumbai",
+    "latitude": 19.076,
+    "longitude": 72.8777,
+    "nikeplus_since": "2025-02-28",
+    "shoe_size_us": 10.5,
+    "gender": "female",
+    "age_group": "25-34",
+    "membership_tier": "gold",
+    "spend_range_inr": {
+      "min": 12000,
+      "max": 25000
+    },
+    "profile_type": "high_mileage_road_runner",
+    "profile_label": "High Mileage Road Runner"
+  },
+  {
+    "user_id": "USR_002",
+    "name": "Aarohi Banerjee",
+    "city": "Delhi",
+    "latitude": 28.6139,
+    "longitude": 77.209,
+    "nikeplus_since": "2022-07-05",
+    "shoe_size_us": 10.5,
+    "gender": "male",
+    "age_group": "25-34",
+    "membership_tier": "gold",
+    "spend_range_inr": {
+      "min": 12000,
+      "max": 25000
+    },
+    "profile_type": "high_mileage_road_runner",
+    "profile_label": "High Mileage Road Runner"
+  },
+  {
+    "user_id": "USR_003",
+    "name": "Rohan Chopra",
+    "city": "Bangalore",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "nikeplus_since": "2025-05-14",
+    "shoe_size_us": 10,
+    "gender": "female",
+    "age_group": "18-24",
+    "membership_tier": "gold",
+    "spend_range_inr": {
+      "min": 12000,
+      "max": 25000
+    },
+    "profile_type": "high_mileage_road_runner",
+    "profile_label": "High Mileage Road Runner"
+  },
+  {
+    "user_id": "USR_004",
+    "name": "Veer Joshi",
+    "city": "Chennai",
+    "latitude": 13.0827,
+    "longitude": 80.2707,
+    "nikeplus_since": "2023-08-14",
+    "shoe_size_us": 9.5,
+    "gender": "female",
+    "age_group": "35-44",
+    "membership_tier": "gold",
+    "spend_range_inr": {
+      "min": 12000,
+      "max": 25000
+    },
+    "profile_type": "high_mileage_road_runner",
+    "profile_label": "High Mileage Road Runner"
+  },
+  {
+    "user_id": "USR_005",
+    "name": "Kabir Menon",
+    "city": "Hyderabad",
+    "latitude": 17.385,
+    "longitude": 78.4867,
+    "nikeplus_since": "2023-09-20",
+    "shoe_size_us": 9,
+    "gender": "female",
+    "age_group": "35-44",
+    "membership_tier": "gold",
+    "spend_range_inr": {
+      "min": 12000,
+      "max": 25000
+    },
+    "profile_type": "high_mileage_road_runner",
+    "profile_label": "High Mileage Road Runner"
+  },
+  {
+    "user_id": "USR_006",
+    "name": "Ira Kapoor",
+    "city": "Pune",
+    "latitude": 18.5204,
+    "longitude": 73.8567,
+    "nikeplus_since": "2022-03-09",
+    "shoe_size_us": 10.5,
+    "gender": "male",
+    "age_group": "25-34",
+    "membership_tier": "platinum",
+    "spend_range_inr": {
+      "min": 12000,
+      "max": 25000
+    },
+    "profile_type": "high_mileage_road_runner",
+    "profile_label": "High Mileage Road Runner"
+  },
+  {
+    "user_id": "USR_007",
+    "name": "Dev Nair",
+    "city": "Kolkata",
+    "latitude": 22.5726,
+    "longitude": 88.3639,
+    "nikeplus_since": "2022-12-19",
+    "shoe_size_us": 11,
+    "gender": "female",
+    "age_group": "35-44",
+    "membership_tier": "platinum",
+    "spend_range_inr": {
+      "min": 12000,
+      "max": 25000
+    },
+    "profile_type": "high_mileage_road_runner",
+    "profile_label": "High Mileage Road Runner"
+  },
+  {
+    "user_id": "USR_008",
+    "name": "Ira Nair",
+    "city": "Ahmedabad",
+    "latitude": 23.0225,
+    "longitude": 72.5714,
+    "nikeplus_since": "2022-07-06",
+    "shoe_size_us": 8.5,
+    "gender": "male",
+    "age_group": "25-34",
+    "membership_tier": "standard",
+    "spend_range_inr": {
+      "min": 12000,
+      "max": 25000
+    },
+    "profile_type": "high_mileage_road_runner",
+    "profile_label": "High Mileage Road Runner"
+  },
+  {
+    "user_id": "USR_009",
+    "name": "Vivaan Banerjee",
+    "city": "Jaipur",
+    "latitude": 26.9124,
+    "longitude": 75.7873,
+    "nikeplus_since": "2023-07-01",
+    "shoe_size_us": 9,
+    "gender": "female",
+    "age_group": "25-34",
+    "membership_tier": "gold",
+    "spend_range_inr": {
+      "min": 12000,
+      "max": 25000
+    },
+    "profile_type": "high_mileage_road_runner",
+    "profile_label": "High Mileage Road Runner"
+  },
+  {
+    "user_id": "USR_010",
+    "name": "Rahul Iyer",
+    "city": "Surat",
+    "latitude": 21.1702,
+    "longitude": 72.8311,
+    "nikeplus_since": "2025-03-28",
+    "shoe_size_us": 9,
+    "gender": "female",
+    "age_group": "45-54",
+    "membership_tier": "gold",
+    "spend_range_inr": {
+      "min": 12000,
+      "max": 25000
+    },
+    "profile_type": "high_mileage_road_runner",
+    "profile_label": "High Mileage Road Runner"
+  },
+  {
+    "user_id": "USR_011",
+    "name": "Sara Patel",
+    "city": "Mumbai",
+    "latitude": 19.076,
+    "longitude": 72.8777,
+    "nikeplus_since": "2022-10-28",
+    "shoe_size_us": 9,
+    "gender": "female",
+    "age_group": "35-44",
+    "membership_tier": "standard",
+    "spend_range_inr": {
+      "min": 4000,
+      "max": 9000
+    },
+    "profile_type": "casual_jogger",
+    "profile_label": "Casual Jogger"
+  },
+  {
+    "user_id": "USR_012",
+    "name": "Sanya Singh",
+    "city": "Delhi",
+    "latitude": 28.6139,
+    "longitude": 77.209,
+    "nikeplus_since": "2024-07-19",
+    "shoe_size_us": 8,
+    "gender": "female",
+    "age_group": "25-34",
+    "membership_tier": "gold",
+    "spend_range_inr": {
+      "min": 4000,
+      "max": 9000
+    },
+    "profile_type": "casual_jogger",
+    "profile_label": "Casual Jogger"
+  },
+  {
+    "user_id": "USR_013",
+    "name": "Kavya Pillai",
+    "city": "Bangalore",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "nikeplus_since": "2022-10-09",
+    "shoe_size_us": 12,
+    "gender": "male",
+    "age_group": "18-24",
+    "membership_tier": "gold",
+    "spend_range_inr": {
+      "min": 4000,
+      "max": 9000
+    },
+    "profile_type": "casual_jogger",
+    "profile_label": "Casual Jogger"
+  },
+  {
+    "user_id": "USR_014",
+    "name": "Mira Iyer",
+    "city": "Chennai",
+    "latitude": 13.0827,
+    "longitude": 80.2707,
+    "nikeplus_since": "2022-10-09",
+    "shoe_size_us": 11,
+    "gender": "female",
+    "age_group": "45-54",
+    "membership_tier": "platinum",
+    "spend_range_inr": {
+      "min": 4000,
+      "max": 9000
+    },
+    "profile_type": "casual_jogger",
+    "profile_label": "Casual Jogger"
+  },
+  {
+    "user_id": "USR_015",
+    "name": "Ishaan Kapoor",
+    "city": "Hyderabad",
+    "latitude": 17.385,
+    "longitude": 78.4867,
+    "nikeplus_since": "2022-09-18",
+    "shoe_size_us": 9.5,
+    "gender": "male",
+    "age_group": "25-34",
+    "membership_tier": "standard",
+    "spend_range_inr": {
+      "min": 4000,
+      "max": 9000
+    },
+    "profile_type": "casual_jogger",
+    "profile_label": "Casual Jogger"
+  },
+  {
+    "user_id": "USR_016",
+    "name": "Sara Pillai",
+    "city": "Pune",
+    "latitude": 18.5204,
+    "longitude": 73.8567,
+    "nikeplus_since": "2022-08-29",
+    "shoe_size_us": 9.5,
+    "gender": "female",
+    "age_group": "18-24",
+    "membership_tier": "gold",
+    "spend_range_inr": {
+      "min": 4000,
+      "max": 9000
+    },
+    "profile_type": "casual_jogger",
+    "profile_label": "Casual Jogger"
+  },
+  {
+    "user_id": "USR_017",
+    "name": "Kiara Rao",
+    "city": "Kolkata",
+    "latitude": 22.5726,
+    "longitude": 88.3639,
+    "nikeplus_since": "2024-01-23",
+    "shoe_size_us": 10,
+    "gender": "female",
+    "age_group": "45-54",
+    "membership_tier": "platinum",
+    "spend_range_inr": {
+      "min": 4000,
+      "max": 9000
+    },
+    "profile_type": "casual_jogger",
+    "profile_label": "Casual Jogger"
+  },
+  {
+    "user_id": "USR_018",
+    "name": "Sneha Iyer",
+    "city": "Ahmedabad",
+    "latitude": 23.0225,
+    "longitude": 72.5714,
+    "nikeplus_since": "2024-07-13",
+    "shoe_size_us": 10.5,
+    "gender": "male",
+    "age_group": "25-34",
+    "membership_tier": "gold",
+    "spend_range_inr": {
+      "min": 4000,
+      "max": 9000
+    },
+    "profile_type": "casual_jogger",
+    "profile_label": "Casual Jogger"
+  },
+  {
+    "user_id": "USR_019",
+    "name": "Vikram Chopra",
+    "city": "Jaipur",
+    "latitude": 26.9124,
+    "longitude": 75.7873,
+    "nikeplus_since": "2023-02-03",
+    "shoe_size_us": 12,
+    "gender": "female",
+    "age_group": "35-44",
+    "membership_tier": "platinum",
+    "spend_range_inr": {
+      "min": 4000,
+      "max": 9000
+    },
+    "profile_type": "casual_jogger",
+    "profile_label": "Casual Jogger"
+  },
+  {
+    "user_id": "USR_020",
+    "name": "Ananya Nair",
+    "city": "Surat",
+    "latitude": 21.1702,
+    "longitude": 72.8311,
+    "nikeplus_since": "2023-01-08",
+    "shoe_size_us": 7,
+    "gender": "female",
+    "age_group": "35-44",
+    "membership_tier": "standard",
+    "spend_range_inr": {
+      "min": 4000,
+      "max": 9000
+    },
+    "profile_type": "casual_jogger",
+    "profile_label": "Casual Jogger"
+  },
+  {
+    "user_id": "USR_021",
+    "name": "Arjun Desai",
+    "city": "Mumbai",
+    "latitude": 19.076,
+    "longitude": 72.8777,
+    "nikeplus_since": "2023-09-14",
+    "shoe_size_us": 10.5,
+    "gender": "male",
+    "age_group": "35-44",
+    "membership_tier": "standard",
+    "spend_range_inr": {
+      "min": 12000,
+      "max": 25000
+    },
+    "profile_type": "hiit_strength_trainer",
+    "profile_label": "HIIT + Strength Trainer"
+  },
+  {
+    "user_id": "USR_022",
+    "name": "Aryan Gupta",
+    "city": "Delhi",
+    "latitude": 28.6139,
+    "longitude": 77.209,
+    "nikeplus_since": "2022-12-07",
+    "shoe_size_us": 7,
+    "gender": "female",
+    "age_group": "25-34",
+    "membership_tier": "standard",
+    "spend_range_inr": {
+      "min": 12000,
+      "max": 25000
+    },
+    "profile_type": "hiit_strength_trainer",
+    "profile_label": "HIIT + Strength Trainer"
+  },
+  {
+    "user_id": "USR_023",
+    "name": "Veer Menon",
+    "city": "Bangalore",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "nikeplus_since": "2024-06-13",
+    "shoe_size_us": 8.5,
+    "gender": "male",
+    "age_group": "35-44",
+    "membership_tier": "standard",
+    "spend_range_inr": {
+      "min": 12000,
+      "max": 25000
+    },
+    "profile_type": "hiit_strength_trainer",
+    "profile_label": "HIIT + Strength Trainer"
+  },
+  {
+    "user_id": "USR_024",
+    "name": "Avni Kulkarni",
+    "city": "Chennai",
+    "latitude": 13.0827,
+    "longitude": 80.2707,
+    "nikeplus_since": "2025-03-23",
+    "shoe_size_us": 10.5,
+    "gender": "male",
+    "age_group": "35-44",
+    "membership_tier": "gold",
+    "spend_range_inr": {
+      "min": 12000,
+      "max": 25000
+    },
+    "profile_type": "hiit_strength_trainer",
+    "profile_label": "HIIT + Strength Trainer"
+  },
+  {
+    "user_id": "USR_025",
+    "name": "Kavya Sharma",
+    "city": "Hyderabad",
+    "latitude": 17.385,
+    "longitude": 78.4867,
+    "nikeplus_since": "2023-12-02",
+    "shoe_size_us": 10,
+    "gender": "male",
+    "age_group": "35-44",
+    "membership_tier": "standard",
+    "spend_range_inr": {
+      "min": 12000,
+      "max": 25000
+    },
+    "profile_type": "hiit_strength_trainer",
+    "profile_label": "HIIT + Strength Trainer"
+  },
+  {
+    "user_id": "USR_026",
+    "name": "Kabir Joshi",
+    "city": "Pune",
+    "latitude": 18.5204,
+    "longitude": 73.8567,
+    "nikeplus_since": "2023-04-02",
+    "shoe_size_us": 10.5,
+    "gender": "female",
+    "age_group": "18-24",
+    "membership_tier": "platinum",
+    "spend_range_inr": {
+      "min": 12000,
+      "max": 25000
+    },
+    "profile_type": "hiit_strength_trainer",
+    "profile_label": "HIIT + Strength Trainer"
+  },
+  {
+    "user_id": "USR_027",
+    "name": "Reyansh Mehta",
+    "city": "Kolkata",
+    "latitude": 22.5726,
+    "longitude": 88.3639,
+    "nikeplus_since": "2022-05-09",
+    "shoe_size_us": 10,
+    "gender": "male",
+    "age_group": "18-24",
+    "membership_tier": "gold",
+    "spend_range_inr": {
+      "min": 12000,
+      "max": 25000
+    },
+    "profile_type": "hiit_strength_trainer",
+    "profile_label": "HIIT + Strength Trainer"
+  },
+  {
+    "user_id": "USR_028",
+    "name": "Sara Sharma",
+    "city": "Ahmedabad",
+    "latitude": 23.0225,
+    "longitude": 72.5714,
+    "nikeplus_since": "2025-03-15",
+    "shoe_size_us": 9,
+    "gender": "male",
+    "age_group": "45-54",
+    "membership_tier": "gold",
+    "spend_range_inr": {
+      "min": 12000,
+      "max": 25000
+    },
+    "profile_type": "hiit_strength_trainer",
+    "profile_label": "HIIT + Strength Trainer"
+  },
+  {
+    "user_id": "USR_029",
+    "name": "Meera Singh",
+    "city": "Jaipur",
+    "latitude": 26.9124,
+    "longitude": 75.7873,
+    "nikeplus_since": "2024-09-01",
+    "shoe_size_us": 8,
+    "gender": "male",
+    "age_group": "35-44",
+    "membership_tier": "standard",
+    "spend_range_inr": {
+      "min": 12000,
+      "max": 25000
+    },
+    "profile_type": "hiit_strength_trainer",
+    "profile_label": "HIIT + Strength Trainer"
+  },
+  {
+    "user_id": "USR_030",
+    "name": "Shaurya Gupta",
+    "city": "Surat",
+    "latitude": 21.1702,
+    "longitude": 72.8311,
+    "nikeplus_since": "2023-04-23",
+    "shoe_size_us": 8,
+    "gender": "male",
+    "age_group": "25-34",
+    "membership_tier": "gold",
+    "spend_range_inr": {
+      "min": 12000,
+      "max": 25000
+    },
+    "profile_type": "hiit_strength_trainer",
+    "profile_label": "HIIT + Strength Trainer"
+  },
+  {
+    "user_id": "USR_031",
+    "name": "Karan Kulkarni",
+    "city": "Mumbai",
+    "latitude": 19.076,
+    "longitude": 72.8777,
+    "nikeplus_since": "2025-03-26",
+    "shoe_size_us": 10.5,
+    "gender": "female",
+    "age_group": "25-34",
+    "membership_tier": "platinum",
+    "spend_range_inr": {
+      "min": 8000,
+      "max": 15000
+    },
+    "profile_type": "multi_sport_athlete",
+    "profile_label": "Multi-Sport Athlete"
+  },
+  {
+    "user_id": "USR_032",
+    "name": "Vikram Kulkarni",
+    "city": "Delhi",
+    "latitude": 28.6139,
+    "longitude": 77.209,
+    "nikeplus_since": "2024-01-06",
+    "shoe_size_us": 9.5,
+    "gender": "male",
+    "age_group": "45-54",
+    "membership_tier": "gold",
+    "spend_range_inr": {
+      "min": 8000,
+      "max": 15000
+    },
+    "profile_type": "multi_sport_athlete",
+    "profile_label": "Multi-Sport Athlete"
+  },
+  {
+    "user_id": "USR_033",
+    "name": "Rohan Desai",
+    "city": "Bangalore",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "nikeplus_since": "2022-05-22",
+    "shoe_size_us": 10,
+    "gender": "male",
+    "age_group": "45-54",
+    "membership_tier": "standard",
+    "spend_range_inr": {
+      "min": 8000,
+      "max": 15000
+    },
+    "profile_type": "multi_sport_athlete",
+    "profile_label": "Multi-Sport Athlete"
+  },
+  {
+    "user_id": "USR_034",
+    "name": "Zara Joshi",
+    "city": "Chennai",
+    "latitude": 13.0827,
+    "longitude": 80.2707,
+    "nikeplus_since": "2025-04-22",
+    "shoe_size_us": 11,
+    "gender": "male",
+    "age_group": "35-44",
+    "membership_tier": "standard",
+    "spend_range_inr": {
+      "min": 8000,
+      "max": 15000
+    },
+    "profile_type": "multi_sport_athlete",
+    "profile_label": "Multi-Sport Athlete"
+  },
+  {
+    "user_id": "USR_035",
+    "name": "Pooja Bhat",
+    "city": "Hyderabad",
+    "latitude": 17.385,
+    "longitude": 78.4867,
+    "nikeplus_since": "2024-07-08",
+    "shoe_size_us": 8.5,
+    "gender": "female",
+    "age_group": "45-54",
+    "membership_tier": "standard",
+    "spend_range_inr": {
+      "min": 8000,
+      "max": 15000
+    },
+    "profile_type": "multi_sport_athlete",
+    "profile_label": "Multi-Sport Athlete"
+  },
+  {
+    "user_id": "USR_036",
+    "name": "Aarav Verma",
+    "city": "Pune",
+    "latitude": 18.5204,
+    "longitude": 73.8567,
+    "nikeplus_since": "2022-10-08",
+    "shoe_size_us": 9.5,
+    "gender": "female",
+    "age_group": "25-34",
+    "membership_tier": "standard",
+    "spend_range_inr": {
+      "min": 8000,
+      "max": 15000
+    },
+    "profile_type": "multi_sport_athlete",
+    "profile_label": "Multi-Sport Athlete"
+  },
+  {
+    "user_id": "USR_037",
+    "name": "Sneha Gupta",
+    "city": "Kolkata",
+    "latitude": 22.5726,
+    "longitude": 88.3639,
+    "nikeplus_since": "2022-11-06",
+    "shoe_size_us": 11,
+    "gender": "female",
+    "age_group": "25-34",
+    "membership_tier": "gold",
+    "spend_range_inr": {
+      "min": 8000,
+      "max": 15000
+    },
+    "profile_type": "multi_sport_athlete",
+    "profile_label": "Multi-Sport Athlete"
+  },
+  {
+    "user_id": "USR_038",
+    "name": "Priya Verma",
+    "city": "Ahmedabad",
+    "latitude": 23.0225,
+    "longitude": 72.5714,
+    "nikeplus_since": "2023-07-22",
+    "shoe_size_us": 11,
+    "gender": "male",
+    "age_group": "25-34",
+    "membership_tier": "gold",
+    "spend_range_inr": {
+      "min": 8000,
+      "max": 15000
+    },
+    "profile_type": "multi_sport_athlete",
+    "profile_label": "Multi-Sport Athlete"
+  },
+  {
+    "user_id": "USR_039",
+    "name": "Varun Joshi",
+    "city": "Jaipur",
+    "latitude": 26.9124,
+    "longitude": 75.7873,
+    "nikeplus_since": "2023-10-23",
+    "shoe_size_us": 12,
+    "gender": "male",
+    "age_group": "45-54",
+    "membership_tier": "platinum",
+    "spend_range_inr": {
+      "min": 8000,
+      "max": 15000
+    },
+    "profile_type": "multi_sport_athlete",
+    "profile_label": "Multi-Sport Athlete"
+  },
+  {
+    "user_id": "USR_040",
+    "name": "Rahul Patel",
+    "city": "Surat",
+    "latitude": 21.1702,
+    "longitude": 72.8311,
+    "nikeplus_since": "2024-01-09",
+    "shoe_size_us": 11,
+    "gender": "male",
+    "age_group": "35-44",
+    "membership_tier": "standard",
+    "spend_range_inr": {
+      "min": 8000,
+      "max": 15000
+    },
+    "profile_type": "multi_sport_athlete",
+    "profile_label": "Multi-Sport Athlete"
+  },
+  {
+    "user_id": "USR_041",
+    "name": "Zara Verma",
+    "city": "Mumbai",
+    "latitude": 19.076,
+    "longitude": 72.8777,
+    "nikeplus_since": "2026-06-03",
+    "shoe_size_us": 7,
+    "gender": "male",
+    "age_group": "25-34",
+    "membership_tier": "new",
+    "spend_range_inr": {
+      "min": 4000,
+      "max": 9000
+    },
+    "profile_type": "new_member",
+    "profile_label": "New Member"
+  },
+  {
+    "user_id": "USR_042",
+    "name": "Aryan Menon",
+    "city": "Delhi",
+    "latitude": 28.6139,
+    "longitude": 77.209,
+    "nikeplus_since": "2026-05-26",
+    "shoe_size_us": 9,
+    "gender": "female",
+    "age_group": "45-54",
+    "membership_tier": "new",
+    "spend_range_inr": {
+      "min": 4000,
+      "max": 9000
+    },
+    "profile_type": "new_member",
+    "profile_label": "New Member"
+  },
+  {
+    "user_id": "USR_043",
+    "name": "Pooja Verma",
+    "city": "Bangalore",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "nikeplus_since": "2026-05-31",
+    "shoe_size_us": 12,
+    "gender": "female",
+    "age_group": "35-44",
+    "membership_tier": "new",
+    "spend_range_inr": {
+      "min": 4000,
+      "max": 9000
+    },
+    "profile_type": "new_member",
+    "profile_label": "New Member"
+  },
+  {
+    "user_id": "USR_044",
+    "name": "Pari Shah",
+    "city": "Chennai",
+    "latitude": 13.0827,
+    "longitude": 80.2707,
+    "nikeplus_since": "2026-06-07",
+    "shoe_size_us": 10,
+    "gender": "female",
+    "age_group": "25-34",
+    "membership_tier": "new",
+    "spend_range_inr": {
+      "min": 4000,
+      "max": 9000
+    },
+    "profile_type": "new_member",
+    "profile_label": "New Member"
+  },
+  {
+    "user_id": "USR_045",
+    "name": "Riya Gupta",
+    "city": "Hyderabad",
+    "latitude": 17.385,
+    "longitude": 78.4867,
+    "nikeplus_since": "2026-06-10",
+    "shoe_size_us": 8,
+    "gender": "male",
+    "age_group": "25-34",
+    "membership_tier": "new",
+    "spend_range_inr": {
+      "min": 4000,
+      "max": 9000
+    },
+    "profile_type": "new_member",
+    "profile_label": "New Member"
+  },
+  {
+    "user_id": "USR_046",
+    "name": "Isha Shah",
+    "city": "Pune",
+    "latitude": 18.5204,
+    "longitude": 73.8567,
+    "nikeplus_since": "2026-05-26",
+    "shoe_size_us": 8.5,
+    "gender": "male",
+    "age_group": "25-34",
+    "membership_tier": "new",
+    "spend_range_inr": {
+      "min": 4000,
+      "max": 9000
+    },
+    "profile_type": "new_member",
+    "profile_label": "New Member"
+  },
+  {
+    "user_id": "USR_047",
+    "name": "Pari Verma",
+    "city": "Kolkata",
+    "latitude": 22.5726,
+    "longitude": 88.3639,
+    "nikeplus_since": "2026-06-09",
+    "shoe_size_us": 12,
+    "gender": "female",
+    "age_group": "18-24",
+    "membership_tier": "new",
+    "spend_range_inr": {
+      "min": 4000,
+      "max": 9000
+    },
+    "profile_type": "new_member",
+    "profile_label": "New Member"
+  },
+  {
+    "user_id": "USR_048",
+    "name": "Rahul Rao",
+    "city": "Ahmedabad",
+    "latitude": 23.0225,
+    "longitude": 72.5714,
+    "nikeplus_since": "2026-06-10",
+    "shoe_size_us": 10,
+    "gender": "male",
+    "age_group": "25-34",
+    "membership_tier": "new",
+    "spend_range_inr": {
+      "min": 4000,
+      "max": 9000
+    },
+    "profile_type": "new_member",
+    "profile_label": "New Member"
+  },
+  {
+    "user_id": "USR_049",
+    "name": "Arjun Shah",
+    "city": "Jaipur",
+    "latitude": 26.9124,
+    "longitude": 75.7873,
+    "nikeplus_since": "2026-06-13",
+    "shoe_size_us": 9.5,
+    "gender": "male",
+    "age_group": "18-24",
+    "membership_tier": "new",
+    "spend_range_inr": {
+      "min": 4000,
+      "max": 9000
+    },
+    "profile_type": "new_member",
+    "profile_label": "New Member"
+  },
+  {
+    "user_id": "USR_050",
+    "name": "Myra Rao",
+    "city": "Surat",
+    "latitude": 21.1702,
+    "longitude": 72.8311,
+    "nikeplus_since": "2026-05-26",
+    "shoe_size_us": 8.5,
+    "gender": "female",
+    "age_group": "18-24",
+    "membership_tier": "new",
+    "spend_range_inr": {
+      "min": 4000,
+      "max": 9000
+    },
+    "profile_type": "new_member",
+    "profile_label": "New Member"
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "user_id": "USR_001",
+    "nrc": {
+      "total_km_logged": 403,
+      "runs_per_week_avg": 4.6,
+      "preferred_surface": "road",
+      "preferred_time_of_day": "evening",
+      "avg_pace_min_per_km": 5.0,
+      "current_goal": "half_marathon",
+      "current_shoe_km": 482,
+      "current_shoe_name": "Nike Pegasus 40",
+      "streak_days": 52,
+      "last_run_date": "2026-06-20"
+    },
+    "ntc": {
+      "workouts_per_week_avg": 1.2,
+      "preferred_workout_types": [
+        "strength",
+        "mobility"
+      ],
+      "total_workouts_completed": 48,
+      "fitness_level": "advanced"
+    }
+  },
+  {
+    "user_id": "USR_002",
+    "nrc": {
+      "total_km_logged": 525,
+      "runs_per_week_avg": 4.8,
+      "preferred_surface": "road",
+      "preferred_time_of_day": "morning",
+      "avg_pace_min_per_km": 4.8,
+      "current_goal": "marathon",
+      "current_shoe_km": 428,
+      "current_shoe_name": "Nike Pegasus 40",
+      "streak_days": 30,
+      "last_run_date": "2026-06-21"
+    },
+    "ntc": {
+      "workouts_per_week_avg": 1.2,
+      "preferred_workout_types": [
+        "strength",
+        "mobility"
+      ],
+      "total_workouts_completed": 93,
+      "fitness_level": "intermediate"
+    }
+  },
+  {
+    "user_id": "USR_003",
+    "nrc": {
+      "total_km_logged": 598,
+      "runs_per_week_avg": 4.6,
+      "preferred_surface": "road",
+      "preferred_time_of_day": "evening",
+      "avg_pace_min_per_km": 5.0,
+      "current_goal": "marathon",
+      "current_shoe_km": 507,
+      "current_shoe_name": "Nike Pegasus 40",
+      "streak_days": 59,
+      "last_run_date": "2026-06-19"
+    },
+    "ntc": {
+      "workouts_per_week_avg": 1.9,
+      "preferred_workout_types": [
+        "strength",
+        "mobility"
+      ],
+      "total_workouts_completed": 118,
+      "fitness_level": "intermediate"
+    }
+  },
+  {
+    "user_id": "USR_004",
+    "nrc": {
+      "total_km_logged": 595,
+      "runs_per_week_avg": 4.9,
+      "preferred_surface": "road",
+      "preferred_time_of_day": "evening",
+      "avg_pace_min_per_km": 5.4,
+      "current_goal": "half_marathon",
+      "current_shoe_km": 463,
+      "current_shoe_name": "Nike Pegasus 40",
+      "streak_days": 50,
+      "last_run_date": "2026-06-21"
+    },
+    "ntc": {
+      "workouts_per_week_avg": 1.8,
+      "preferred_workout_types": [
+        "strength",
+        "mobility"
+      ],
+      "total_workouts_completed": 60,
+      "fitness_level": "intermediate"
+    }
+  },
+  {
+    "user_id": "USR_005",
+    "nrc": {
+      "total_km_logged": 504,
+      "runs_per_week_avg": 5.0,
+      "preferred_surface": "road",
+      "preferred_time_of_day": "evening",
+      "avg_pace_min_per_km": 4.9,
+      "current_goal": "half_marathon",
+      "current_shoe_km": 525,
+      "current_shoe_name": "Nike Pegasus 40",
+      "streak_days": 56,
+      "last_run_date": "2026-06-19"
+    },
+    "ntc": {
+      "workouts_per_week_avg": 1.4,
+      "preferred_workout_types": [
+        "strength",
+        "mobility"
+      ],
+      "total_workouts_completed": 98,
+      "fitness_level": "intermediate"
+    }
+  },
+  {
+    "user_id": "USR_006",
+    "nrc": {
+      "total_km_logged": 575,
+      "runs_per_week_avg": 5.4,
+      "preferred_surface": "road",
+      "preferred_time_of_day": "morning",
+      "avg_pace_min_per_km": 5.1,
+      "current_goal": "half_marathon",
+      "current_shoe_km": 469,
+      "current_shoe_name": "Nike Pegasus 40",
+      "streak_days": 102,
+      "last_run_date": "2026-06-21"
+    },
+    "ntc": {
+      "workouts_per_week_avg": 2.4,
+      "preferred_workout_types": [
+        "strength",
+        "mobility"
+      ],
+      "total_workouts_completed": 58,
+      "fitness_level": "intermediate"
+    }
+  },
+  {
+    "user_id": "USR_007",
+    "nrc": {
+      "total_km_logged": 415,
+      "runs_per_week_avg": 5.1,
+      "preferred_surface": "road",
+      "preferred_time_of_day": "evening",
+      "avg_pace_min_per_km": 5.1,
+      "current_goal": "marathon",
+      "current_shoe_km": 452,
+      "current_shoe_name": "Nike Pegasus 40",
+      "streak_days": 108,
+      "last_run_date": "2026-06-20"
+    },
+    "ntc": {
+      "workouts_per_week_avg": 2.0,
+      "preferred_workout_types": [
+        "strength",
+        "mobility"
+      ],
+      "total_workouts_completed": 74,
+      "fitness_level": "advanced"
+    }
+  },
+  {
+    "user_id": "USR_008",
+    "nrc": {
+      "total_km_logged": 512,
+      "runs_per_week_avg": 4.8,
+      "preferred_surface": "road",
+      "preferred_time_of_day": "evening",
+      "avg_pace_min_per_km": 5.5,
+      "current_goal": "marathon",
+      "current_shoe_km": 430,
+      "current_shoe_name": "Nike Pegasus 40",
+      "streak_days": 23,
+      "last_run_date": "2026-06-21"
+    },
+    "ntc": {
+      "workouts_per_week_avg": 1.3,
+      "preferred_workout_types": [
+        "strength",
+        "mobility"
+      ],
+      "total_workouts_completed": 113,
+      "fitness_level": "intermediate"
+    }
+  },
+  {
+    "user_id": "USR_009",
+    "nrc": {
+      "total_km_logged": 595,
+      "runs_per_week_avg": 4.8,
+      "preferred_surface": "road",
+      "preferred_time_of_day": "morning",
+      "avg_pace_min_per_km": 5.2,
+      "current_goal": "marathon",
+      "current_shoe_km": 478,
+      "current_shoe_name": "Nike Pegasus 40",
+      "streak_days": 55,
+      "last_run_date": "2026-06-21"
+    },
+    "ntc": {
+      "workouts_per_week_avg": 2.5,
+      "preferred_workout_types": [
+        "strength",
+        "mobility"
+      ],
+      "total_workouts_completed": 95,
+      "fitness_level": "advanced"
+    }
+  },
+  {
+    "user_id": "USR_010",
+    "nrc": {
+      "total_km_logged": 423,
+      "runs_per_week_avg": 4.4,
+      "preferred_surface": "road",
+      "preferred_time_of_day": "evening",
+      "avg_pace_min_per_km": 5.0,
+      "current_goal": "half_marathon",
+      "current_shoe_km": 530,
+      "current_shoe_name": "Nike Pegasus 40",
+      "streak_days": 40,
+      "last_run_date": "2026-06-20"
+    },
+    "ntc": {
+      "workouts_per_week_avg": 1.6,
+      "preferred_workout_types": [
+        "strength",
+        "mobility"
+      ],
+      "total_workouts_completed": 103,
+      "fitness_level": "advanced"
+    }
+  },
+  {
+    "user_id": "USR_011",
+    "nrc": {
+      "total_km_logged": 71,
+      "runs_per_week_avg": 2.2,
+      "preferred_surface": "treadmill",
+      "preferred_time_of_day": "night",
+      "avg_pace_min_per_km": 6.6,
+      "current_goal": "general_fitness",
+      "current_shoe_km": 100,
+      "current_shoe_name": "Nike Revolution 7",
+      "streak_days": 4,
+      "last_run_date": "2026-06-15"
+    },
+    "ntc": {
+      "workouts_per_week_avg": 0.7,
+      "preferred_workout_types": [
+        "cardio",
+        "yoga"
+      ],
+      "total_workouts_completed": 30,
+      "fitness_level": "beginner"
+    }
+  },
+  {
+    "user_id": "USR_012",
+    "nrc": {
+      "total_km_logged": 85,
+      "runs_per_week_avg": 2.2,
+      "preferred_surface": "treadmill",
+      "preferred_time_of_day": "morning",
+      "avg_pace_min_per_km": 7.5,
+      "current_goal": "5k",
+      "current_shoe_km": 125,
+      "current_shoe_name": "Nike Revolution 7",
+      "streak_days": 0,
+      "last_run_date": "2026-06-17"
+    },
+    "ntc": {
+      "workouts_per_week_avg": 1.3,
+      "preferred_workout_types": [
+        "cardio",
+        "yoga"
+      ],
+      "total_workouts_completed": 36,
+      "fitness_level": "beginner"
+    }
+  },
+  {
+    "user_id": "USR_013",
+    "nrc": {
+      "total_km_logged": 76,
+      "runs_per_week_avg": 2.1,
+      "preferred_surface": "treadmill",
+      "preferred_time_of_day": "morning",
+      "avg_pace_min_per_km": 6.9,
+      "current_goal": "general_fitness",
+      "current_shoe_km": 93,
+      "current_shoe_name": "Nike Revolution 7",
+      "streak_days": 7,
+      "last_run_date": "2026-06-13"
+    },
+    "ntc": {
+      "workouts_per_week_avg": 0.7,
+      "preferred_workout_types": [
+        "cardio",
+        "yoga"
+      ],
+      "total_workouts_completed": 20,
+      "fitness_level": "beginner"
+    }
+  },
+  {
+    "user_id": "USR_014",
+    "nrc": {
+      "total_km_logged": 40,
+      "runs_per_week_avg": 1.5,
+      "preferred_surface": "treadmill",
+      "preferred_time_of_day": "morning",
+      "avg_pace_min_per_km": 7.3,
+      "current_goal": "general_fitness",
+      "current_shoe_km": 77,
+      "current_shoe_name": "Nike Revolution 7",
+      "streak_days": 13,
+      "last_run_date": "2026-06-19"
+    },
+    "ntc": {
+      "workouts_per_week_avg": 1.2,
+      "preferred_workout_types": [
+        "cardio",
+        "yoga"
+      ],
+      "total_workouts_completed": 12,
+      "fitness_level": "beginner"
+    }
+  },
+  {
+    "user_id": "USR_015",
+    "nrc": {
+      "total_km_logged": 39,
+      "runs_per_week_avg": 1.7,
+      "preferred_surface": "treadmill",
+      "preferred_time_of_day": "night",
+      "avg_pace_min_per_km": 6.9,
+      "current_goal": "5k",
+      "current_shoe_km": 126,
+      "current_shoe_name": "Nike Revolution 7",
+      "streak_days": 13,
+      "last_run_date": "2026-06-13"
+    },
+    "ntc": {
+      "workouts_per_week_avg": 2.0,
+      "preferred_workout_types": [
+        "cardio",
+        "yoga"
+      ],
+      "total_workouts_completed": 20,
+      "fitness_level": "beginner"
+    }
+  },
+  {
+    "user_id": "USR_016",
+    "nrc": {
+      "total_km_logged": 78,
+      "runs_per_week_avg": 1.8,
+      "preferred_surface": "treadmill",
+      "preferred_time_of_day": "evening",
+      "avg_pace_min_per_km": 6.8,
+      "current_goal": "general_fitness",
+      "current_shoe_km": 37,
+      "current_shoe_name": "Nike Revolution 7",
+      "streak_days": 4,
+      "last_run_date": "2026-06-14"
+    },
+    "ntc": {
+      "workouts_per_week_avg": 1.0,
+      "preferred_workout_types": [
+        "cardio",
+        "yoga"
+      ],
+      "total_workouts_completed": 37,
+      "fitness_level": "beginner"
+    }
+  },
+  {
+    "user_id": "USR_017",
+    "nrc": {
+      "total_km_logged": 54,
+      "runs_per_week_avg": 2.2,
+      "preferred_surface": "treadmill",
+      "preferred_time_of_day": "evening",
+      "avg_pace_min_per_km": 7.6,
+      "current_goal": "5k",
+      "current_shoe_km": 58,
+      "current_shoe_name": "Nike Revolution 7",
+      "streak_days": 7,
+      "last_run_date": "2026-06-12"
+    },
+    "ntc": {
+      "workouts_per_week_avg": 1.2,
+      "preferred_workout_types": [
+        "cardio",
+        "yoga"
+      ],
+      "total_workouts_completed": 26,
+      "fitness_level": "beginner"
+    }
+  },
+  {
+    "user_id": "USR_018",
+    "nrc": {
+      "total_km_logged": 90,
+      "runs_per_week_avg": 2.1,
+      "preferred_surface": "treadmill",
+      "preferred_time_of_day": "evening",
+      "avg_pace_min_per_km": 7.2,
+      "current_goal": "5k",
+      "current_shoe_km": 68,
+      "current_shoe_name": "Nike Revolution 7",
+      "streak_days": 11,
+      "last_run_date": "2026-06-17"
+    },
+    "ntc": {
+      "workouts_per_week_avg": 1.4,
+      "preferred_workout_types": [
+        "cardio",
+        "yoga"
+      ],
+      "total_workouts_completed": 19,
+      "fitness_level": "beginner"
+    }
+  },
+  {
+    "user_id": "USR_019",
+    "nrc": {
+      "total_km_logged": 72,
+      "runs_per_week_avg": 1.1,
+      "preferred_surface": "treadmill",
+      "preferred_time_of_day": "night",
+      "avg_pace_min_per_km": 7.2,
+      "current_goal": "5k",
+      "current_shoe_km": 118,
+      "current_shoe_name": "Nike Revolution 7",
+      "streak_days": 10,
+      "last_run_date": "2026-06-18"
+    },
+    "ntc": {
+      "workouts_per_week_avg": 1.2,
+      "preferred_workout_types": [
+        "cardio",
+        "yoga"
+      ],
+      "total_workouts_completed": 7,
+      "fitness_level": "beginner"
+    }
+  },
+  {
+    "user_id": "USR_020",
+    "nrc": {
+      "total_km_logged": 36,
+      "runs_per_week_avg": 1.8,
+      "preferred_surface": "treadmill",
+      "preferred_time_of_day": "night",
+      "avg_pace_min_per_km": 7.0,
+      "current_goal": "general_fitness",
+      "current_shoe_km": 132,
+      "current_shoe_name": "Nike Revolution 7",
+      "streak_days": 1,
+      "last_run_date": "2026-06-12"
+    },
+    "ntc": {
+      "workouts_per_week_avg": 1.9,
+      "preferred_workout_types": [
+        "cardio",
+        "yoga"
+      ],
+      "total_workouts_completed": 5,
+      "fitness_level": "beginner"
+    }
+  },
+  {
+    "user_id": "USR_021",
+    "nrc": {
+      "total_km_logged": 23,
+      "runs_per_week_avg": 0.1,
+      "preferred_surface": "treadmill",
+      "preferred_time_of_day": "morning",
+      "avg_pace_min_per_km": 6.1,
+      "current_goal": "general_fitness",
+      "current_shoe_km": 50,
+      "current_shoe_name": "Nike Metcon 8",
+      "streak_days": 8,
+      "last_run_date": "2026-06-08"
+    },
+    "ntc": {
+      "workouts_per_week_avg": 4.2,
+      "preferred_workout_types": [
+        "hiit",
+        "strength"
+      ],
+      "total_workouts_completed": 181,
+      "fitness_level": "intermediate"
+    }
+  },
+  {
+    "user_id": "USR_022",
+    "nrc": {
+      "total_km_logged": 27,
+      "runs_per_week_avg": 0.3,
+      "preferred_surface": "treadmill",
+      "preferred_time_of_day": "evening",
+      "avg_pace_min_per_km": 7.4,
+      "current_goal": "general_fitness",
+      "current_shoe_km": 40,
+      "current_shoe_name": "Nike Metcon 8",
+      "streak_days": 22,
+      "last_run_date": "2026-06-03"
+    },
+    "ntc": {
+      "workouts_per_week_avg": 4.7,
+      "preferred_workout_types": [
+        "hiit",
+        "strength"
+      ],
+      "total_workouts_completed": 89,
+      "fitness_level": "intermediate"
+    }
+  },
+  {
+    "user_id": "USR_023",
+    "nrc": {
+      "total_km_logged": 7,
+      "runs_per_week_avg": 0.6,
+      "preferred_surface": "treadmill",
+      "preferred_time_of_day": "evening",
+      "avg_pace_min_per_km": 7.5,
+      "current_goal": "general_fitness",
+      "current_shoe_km": 47,
+      "current_shoe_name": "Nike Metcon 8",
+      "streak_days": 2,
+      "last_run_date": "2026-06-05"
+    },
+    "ntc": {
+      "workouts_per_week_avg": 5.0,
+      "preferred_workout_types": [
+        "hiit",
+        "strength"
+      ],
+      "total_workouts_completed": 105,
+      "fitness_level": "advanced"
+    }
+  },
+  {
+    "user_id": "USR_024",
+    "nrc": {
+      "total_km_logged": 5,
+      "runs_per_week_avg": 0.7,
+      "preferred_surface": "treadmill",
+      "preferred_time_of_day": "morning",
+      "avg_pace_min_per_km": 6.1,
+      "current_goal": "general_fitness",
+      "current_shoe_km": 50,
+      "current_shoe_name": "Nike Metcon 8",
+      "streak_days": 1,
+      "last_run_date": "2026-06-09"
+    },
+    "ntc": {
+      "workouts_per_week_avg": 3.7,
+      "preferred_workout_types": [
+        "hiit",
+        "strength"
+      ],
+      "total_workouts_completed": 190,
+      "fitness_level": "intermediate"
+    }
+  },
+  {
+    "user_id": "USR_025",
+    "nrc": {
+      "total_km_logged": 7,
+      "runs_per_week_avg": 0.5,
+      "preferred_surface": "treadmill",
+      "preferred_time_of_day": "morning",
+      "avg_pace_min_per_km": 6.3,
+      "current_goal": "general_fitness",
+      "current_shoe_km": 5,
+      "current_shoe_name": "Nike Metcon 8",
+      "streak_days": 19,
+      "last_run_date": "2026-06-06"
+    },
+    "ntc": {
+      "workouts_per_week_avg": 4.2,
+      "preferred_workout_types": [
+        "hiit",
+        "strength"
+      ],
+      "total_workouts_completed": 141,
+      "fitness_level": "advanced"
+    }
+  },
+  {
+    "user_id": "USR_026",
+    "nrc": {
+      "total_km_logged": 29,
+      "runs_per_week_avg": 0.6,
+      "preferred_surface": "treadmill",
+      "preferred_time_of_day": "morning",
+      "avg_pace_min_per_km": 6.7,
+      "current_goal": "general_fitness",
+      "current_shoe_km": 16,
+      "current_shoe_name": "Nike Metcon 8",
+      "streak_days": 14,
+      "last_run_date": "2026-06-10"
+    },
+    "ntc": {
+      "workouts_per_week_avg": 4.3,
+      "preferred_workout_types": [
+        "hiit",
+        "strength"
+      ],
+      "total_workouts_completed": 199,
+      "fitness_level": "advanced"
+    }
+  },
+  {
+    "user_id": "USR_027",
+    "nrc": {
+      "total_km_logged": 21,
+      "runs_per_week_avg": 0.5,
+      "preferred_surface": "treadmill",
+      "preferred_time_of_day": "morning",
+      "avg_pace_min_per_km": 6.7,
+      "current_goal": "general_fitness",
+      "current_shoe_km": 22,
+      "current_shoe_name": "Nike Metcon 8",
+      "streak_days": 18,
+      "last_run_date": "2026-06-09"
+    },
+    "ntc": {
+      "workouts_per_week_avg": 4.3,
+      "preferred_workout_types": [
+        "hiit",
+        "strength"
+      ],
+      "total_workouts_completed": 188,
+      "fitness_level": "advanced"
+    }
+  },
+  {
+    "user_id": "USR_028",
+    "nrc": {
+      "total_km_logged": 14,
+      "runs_per_week_avg": 0.8,
+      "preferred_surface": "treadmill",
+      "preferred_time_of_day": "morning",
+      "avg_pace_min_per_km": 7.5,
+      "current_goal": "general_fitness",
+      "current_shoe_km": 54,
+      "current_shoe_name": "Nike Metcon 8",
+      "streak_days": 15,
+      "last_run_date": "2026-06-15"
+    },
+    "ntc": {
+      "workouts_per_week_avg": 3.5,
+      "preferred_workout_types": [
+        "hiit",
+        "strength"
+      ],
+      "total_workouts_completed": 171,
+      "fitness_level": "advanced"
+    }
+  },
+  {
+    "user_id": "USR_029",
+    "nrc": {
+      "total_km_logged": 22,
+      "runs_per_week_avg": 0.3,
+      "preferred_surface": "treadmill",
+      "preferred_time_of_day": "evening",
+      "avg_pace_min_per_km": 6.4,
+      "current_goal": "general_fitness",
+      "current_shoe_km": 36,
+      "current_shoe_name": "Nike Metcon 8",
+      "streak_days": 27,
+      "last_run_date": "2026-06-17"
+    },
+    "ntc": {
+      "workouts_per_week_avg": 4.8,
+      "preferred_workout_types": [
+        "hiit",
+        "strength"
+      ],
+      "total_workouts_completed": 207,
+      "fitness_level": "advanced"
+    }
+  },
+  {
+    "user_id": "USR_030",
+    "nrc": {
+      "total_km_logged": 24,
+      "runs_per_week_avg": 0.8,
+      "preferred_surface": "treadmill",
+      "preferred_time_of_day": "evening",
+      "avg_pace_min_per_km": 6.3,
+      "current_goal": "general_fitness",
+      "current_shoe_km": 12,
+      "current_shoe_name": "Nike Metcon 8",
+      "streak_days": 19,
+      "last_run_date": "2026-06-10"
+    },
+    "ntc": {
+      "workouts_per_week_avg": 4.4,
+      "preferred_workout_types": [
+        "hiit",
+        "strength"
+      ],
+      "total_workouts_completed": 115,
+      "fitness_level": "intermediate"
+    }
+  },
+  {
+    "user_id": "USR_031",
+    "nrc": {
+      "total_km_logged": 280,
+      "runs_per_week_avg": 3.0,
+      "preferred_surface": "trail",
+      "preferred_time_of_day": "evening",
+      "avg_pace_min_per_km": 5.4,
+      "current_goal": "half_marathon",
+      "current_shoe_km": 267,
+      "current_shoe_name": "Nike Pegasus Trail 5",
+      "streak_days": 13,
+      "last_run_date": "2026-06-21"
+    },
+    "ntc": {
+      "workouts_per_week_avg": 3.4,
+      "preferred_workout_types": [
+        "strength",
+        "hiit",
+        "mobility"
+      ],
+      "total_workouts_completed": 91,
+      "fitness_level": "intermediate"
+    }
+  },
+  {
+    "user_id": "USR_032",
+    "nrc": {
+      "total_km_logged": 311,
+      "runs_per_week_avg": 2.6,
+      "preferred_surface": "road",
+      "preferred_time_of_day": "morning",
+      "avg_pace_min_per_km": 6.5,
+      "current_goal": "half_marathon",
+      "current_shoe_km": 215,
+      "current_shoe_name": "Nike Pegasus Trail 5",
+      "streak_days": 37,
+      "last_run_date": "2026-06-19"
+    },
+    "ntc": {
+      "workouts_per_week_avg": 3.2,
+      "preferred_workout_types": [
+        "strength",
+        "hiit",
+        "mobility"
+      ],
+      "total_workouts_completed": 82,
+      "fitness_level": "intermediate"
+    }
+  },
+  {
+    "user_id": "USR_033",
+    "nrc": {
+      "total_km_logged": 243,
+      "runs_per_week_avg": 3.5,
+      "preferred_surface": "trail",
+      "preferred_time_of_day": "evening",
+      "avg_pace_min_per_km": 6.5,
+      "current_goal": "half_marathon",
+      "current_shoe_km": 99,
+      "current_shoe_name": "Nike Pegasus Trail 5",
+      "streak_days": 14,
+      "last_run_date": "2026-06-20"
+    },
+    "ntc": {
+      "workouts_per_week_avg": 3.3,
+      "preferred_workout_types": [
+        "strength",
+        "hiit",
+        "mobility"
+      ],
+      "total_workouts_completed": 142,
+      "fitness_level": "intermediate"
+    }
+  },
+  {
+    "user_id": "USR_034",
+    "nrc": {
+      "total_km_logged": 292,
+      "runs_per_week_avg": 3.5,
+      "preferred_surface": "trail",
+      "preferred_time_of_day": "morning",
+      "avg_pace_min_per_km": 6.5,
+      "current_goal": "10k",
+      "current_shoe_km": 147,
+      "current_shoe_name": "Nike Pegasus Trail 5",
+      "streak_days": 39,
+      "last_run_date": "2026-06-21"
+    },
+    "ntc": {
+      "workouts_per_week_avg": 2.7,
+      "preferred_workout_types": [
+        "strength",
+        "hiit",
+        "mobility"
+      ],
+      "total_workouts_completed": 136,
+      "fitness_level": "intermediate"
+    }
+  },
+  {
+    "user_id": "USR_035",
+    "nrc": {
+      "total_km_logged": 311,
+      "runs_per_week_avg": 3.0,
+      "preferred_surface": "trail",
+      "preferred_time_of_day": "evening",
+      "avg_pace_min_per_km": 5.6,
+      "current_goal": "10k",
+      "current_shoe_km": 200,
+      "current_shoe_name": "Nike Pegasus Trail 5",
+      "streak_days": 6,
+      "last_run_date": "2026-06-17"
+    },
+    "ntc": {
+      "workouts_per_week_avg": 3.3,
+      "preferred_workout_types": [
+        "strength",
+        "hiit",
+        "mobility"
+      ],
+      "total_workouts_completed": 121,
+      "fitness_level": "intermediate"
+    }
+  },
+  {
+    "user_id": "USR_036",
+    "nrc": {
+      "total_km_logged": 203,
+      "runs_per_week_avg": 3.4,
+      "preferred_surface": "road",
+      "preferred_time_of_day": "morning",
+      "avg_pace_min_per_km": 6.3,
+      "current_goal": "half_marathon",
+      "current_shoe_km": 259,
+      "current_shoe_name": "Nike Pegasus Trail 5",
+      "streak_days": 24,
+      "last_run_date": "2026-06-16"
+    },
+    "ntc": {
+      "workouts_per_week_avg": 2.6,
+      "preferred_workout_types": [
+        "strength",
+        "hiit",
+        "mobility"
+      ],
+      "total_workouts_completed": 67,
+      "fitness_level": "intermediate"
+    }
+  },
+  {
+    "user_id": "USR_037",
+    "nrc": {
+      "total_km_logged": 131,
+      "runs_per_week_avg": 3.4,
+      "preferred_surface": "trail",
+      "preferred_time_of_day": "evening",
+      "avg_pace_min_per_km": 5.6,
+      "current_goal": "10k",
+      "current_shoe_km": 217,
+      "current_shoe_name": "Nike Pegasus Trail 5",
+      "streak_days": 13,
+      "last_run_date": "2026-06-18"
+    },
+    "ntc": {
+      "workouts_per_week_avg": 2.7,
+      "preferred_workout_types": [
+        "strength",
+        "hiit",
+        "mobility"
+      ],
+      "total_workouts_completed": 135,
+      "fitness_level": "intermediate"
+    }
+  },
+  {
+    "user_id": "USR_038",
+    "nrc": {
+      "total_km_logged": 310,
+      "runs_per_week_avg": 3.0,
+      "preferred_surface": "trail",
+      "preferred_time_of_day": "morning",
+      "avg_pace_min_per_km": 6.6,
+      "current_goal": "general_fitness",
+      "current_shoe_km": 105,
+      "current_shoe_name": "Nike Pegasus Trail 5",
+      "streak_days": 58,
+      "last_run_date": "2026-06-18"
+    },
+    "ntc": {
+      "workouts_per_week_avg": 2.9,
+      "preferred_workout_types": [
+        "strength",
+        "hiit",
+        "mobility"
+      ],
+      "total_workouts_completed": 85,
+      "fitness_level": "intermediate"
+    }
+  },
+  {
+    "user_id": "USR_039",
+    "nrc": {
+      "total_km_logged": 128,
+      "runs_per_week_avg": 3.0,
+      "preferred_surface": "road",
+      "preferred_time_of_day": "evening",
+      "avg_pace_min_per_km": 6.0,
+      "current_goal": "10k",
+      "current_shoe_km": 298,
+      "current_shoe_name": "Nike Pegasus Trail 5",
+      "streak_days": 28,
+      "last_run_date": "2026-06-21"
+    },
+    "ntc": {
+      "workouts_per_week_avg": 3.5,
+      "preferred_workout_types": [
+        "strength",
+        "hiit",
+        "mobility"
+      ],
+      "total_workouts_completed": 97,
+      "fitness_level": "intermediate"
+    }
+  },
+  {
+    "user_id": "USR_040",
+    "nrc": {
+      "total_km_logged": 259,
+      "runs_per_week_avg": 3.4,
+      "preferred_surface": "trail",
+      "preferred_time_of_day": "morning",
+      "avg_pace_min_per_km": 6.0,
+      "current_goal": "10k",
+      "current_shoe_km": 111,
+      "current_shoe_name": "Nike Pegasus Trail 5",
+      "streak_days": 59,
+      "last_run_date": "2026-06-18"
+    },
+    "ntc": {
+      "workouts_per_week_avg": 2.1,
+      "preferred_workout_types": [
+        "strength",
+        "hiit",
+        "mobility"
+      ],
+      "total_workouts_completed": 77,
+      "fitness_level": "intermediate"
+    }
+  },
+  {
+    "user_id": "USR_041",
+    "nrc": {
+      "total_km_logged": 0,
+      "runs_per_week_avg": 0.1,
+      "preferred_surface": "treadmill",
+      "preferred_time_of_day": "morning",
+      "avg_pace_min_per_km": 8.0,
+      "current_goal": "10k",
+      "current_shoe_km": 6,
+      "current_shoe_name": null,
+      "streak_days": 0,
+      "last_run_date": "2026-06-15"
+    },
+    "ntc": {
+      "workouts_per_week_avg": 1.1,
+      "preferred_workout_types": [
+        "strength"
+      ],
+      "total_workouts_completed": 4,
+      "fitness_level": "beginner"
+    }
+  },
+  {
+    "user_id": "USR_042",
+    "nrc": {
+      "total_km_logged": 6,
+      "runs_per_week_avg": 1.2,
+      "preferred_surface": "road",
+      "preferred_time_of_day": "evening",
+      "avg_pace_min_per_km": 7.5,
+      "current_goal": "10k",
+      "current_shoe_km": 0,
+      "current_shoe_name": null,
+      "streak_days": 2,
+      "last_run_date": "2026-06-15"
+    },
+    "ntc": {
+      "workouts_per_week_avg": 1.5,
+      "preferred_workout_types": [
+        "strength"
+      ],
+      "total_workouts_completed": 4,
+      "fitness_level": "beginner"
+    }
+  },
+  {
+    "user_id": "USR_043",
+    "nrc": {
+      "total_km_logged": 8,
+      "runs_per_week_avg": 1.2,
+      "preferred_surface": "road",
+      "preferred_time_of_day": "morning",
+      "avg_pace_min_per_km": 6.3,
+      "current_goal": "5k",
+      "current_shoe_km": 25,
+      "current_shoe_name": null,
+      "streak_days": 6,
+      "last_run_date": "2026-06-20"
+    },
+    "ntc": {
+      "workouts_per_week_avg": 0.9,
+      "preferred_workout_types": [
+        "strength"
+      ],
+      "total_workouts_completed": 1,
+      "fitness_level": "beginner"
+    }
+  },
+  {
+    "user_id": "USR_044",
+    "nrc": {
+      "total_km_logged": 8,
+      "runs_per_week_avg": 0.1,
+      "preferred_surface": "trail",
+      "preferred_time_of_day": "evening",
+      "avg_pace_min_per_km": 7.1,
+      "current_goal": "10k",
+      "current_shoe_km": 2,
+      "current_shoe_name": null,
+      "streak_days": 3,
+      "last_run_date": "2026-06-18"
+    },
+    "ntc": {
+      "workouts_per_week_avg": 1.2,
+      "preferred_workout_types": [
+        "yoga"
+      ],
+      "total_workouts_completed": 4,
+      "fitness_level": "beginner"
+    }
+  },
+  {
+    "user_id": "USR_045",
+    "nrc": {
+      "total_km_logged": 3,
+      "runs_per_week_avg": 0.7,
+      "preferred_surface": "road",
+      "preferred_time_of_day": "morning",
+      "avg_pace_min_per_km": 7.5,
+      "current_goal": "10k",
+      "current_shoe_km": 16,
+      "current_shoe_name": null,
+      "streak_days": 2,
+      "last_run_date": "2026-06-18"
+    },
+    "ntc": {
+      "workouts_per_week_avg": 1.0,
+      "preferred_workout_types": [
+        "strength"
+      ],
+      "total_workouts_completed": 0,
+      "fitness_level": "beginner"
+    }
+  },
+  {
+    "user_id": "USR_046",
+    "nrc": {
+      "total_km_logged": 15,
+      "runs_per_week_avg": 1.3,
+      "preferred_surface": "treadmill",
+      "preferred_time_of_day": "morning",
+      "avg_pace_min_per_km": 7.0,
+      "current_goal": "5k",
+      "current_shoe_km": 2,
+      "current_shoe_name": null,
+      "streak_days": 0,
+      "last_run_date": "2026-06-19"
+    },
+    "ntc": {
+      "workouts_per_week_avg": 0.9,
+      "preferred_workout_types": [
+        "strength"
+      ],
+      "total_workouts_completed": 1,
+      "fitness_level": "beginner"
+    }
+  },
+  {
+    "user_id": "USR_047",
+    "nrc": {
+      "total_km_logged": 8,
+      "runs_per_week_avg": 0.9,
+      "preferred_surface": "trail",
+      "preferred_time_of_day": "evening",
+      "avg_pace_min_per_km": 6.8,
+      "current_goal": "10k",
+      "current_shoe_km": 16,
+      "current_shoe_name": null,
+      "streak_days": 2,
+      "last_run_date": "2026-06-18"
+    },
+    "ntc": {
+      "workouts_per_week_avg": 0.8,
+      "preferred_workout_types": [
+        "cardio"
+      ],
+      "total_workouts_completed": 0,
+      "fitness_level": "beginner"
+    }
+  },
+  {
+    "user_id": "USR_048",
+    "nrc": {
+      "total_km_logged": 3,
+      "runs_per_week_avg": 1.3,
+      "preferred_surface": "trail",
+      "preferred_time_of_day": "morning",
+      "avg_pace_min_per_km": 6.9,
+      "current_goal": "general_fitness",
+      "current_shoe_km": 13,
+      "current_shoe_name": null,
+      "streak_days": 2,
+      "last_run_date": "2026-06-15"
+    },
+    "ntc": {
+      "workouts_per_week_avg": 0.7,
+      "preferred_workout_types": [
+        "cardio"
+      ],
+      "total_workouts_completed": 5,
+      "fitness_level": "beginner"
+    }
+  },
+  {
+    "user_id": "USR_049",
+    "nrc": {
+      "total_km_logged": 3,
+      "runs_per_week_avg": 0.5,
+      "preferred_surface": "treadmill",
+      "preferred_time_of_day": "evening",
+      "avg_pace_min_per_km": 6.7,
+      "current_goal": "general_fitness",
+      "current_shoe_km": 21,
+      "current_shoe_name": null,
+      "streak_days": 3,
+      "last_run_date": "2026-06-21"
+    },
+    "ntc": {
+      "workouts_per_week_avg": 0.1,
+      "preferred_workout_types": [
+        "strength"
+      ],
+      "total_workouts_completed": 0,
+      "fitness_level": "beginner"
+    }
+  },
+  {
+    "user_id": "USR_050",
+    "nrc": {
+      "total_km_logged": 13,
+      "runs_per_week_avg": 0.1,
+      "preferred_surface": "trail",
+      "preferred_time_of_day": "evening",
+      "avg_pace_min_per_km": 7.6,
+      "current_goal": "10k",
+      "current_shoe_km": 1,
+      "current_shoe_name": null,
+      "streak_days": 4,
+      "last_run_date": "2026-06-17"
+    },
+    "ntc": {
+      "workouts_per_week_avg": 0.8,
+      "preferred_workout_types": [
+        "yoga"
+      ],
+      "total_workouts_completed": 0,
+      "fitness_level": "beginner"
+    }
+  }
+]

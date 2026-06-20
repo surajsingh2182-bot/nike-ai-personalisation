@@ -1,0 +1,2045 @@
+[
+  {
+    "user_id": "USR_001",
+    "purchase_history": [
+      {
+        "product_id": "PROD_002",
+        "product_name": "Nike Pegasus 40",
+        "category": "road_running_shoes",
+        "price_inr": 11295,
+        "purchase_date": "2025-09-09",
+        "is_full_price": true
+      },
+      {
+        "product_id": "PROD_041",
+        "product_name": "Nike Pacer Half-Zip",
+        "category": "running_apparel_top",
+        "price_inr": 2795,
+        "purchase_date": "2026-01-31",
+        "is_full_price": true
+      }
+    ],
+    "browse_history": [
+      {
+        "product_id": "PROD_011",
+        "category": "road_running_shoes",
+        "time_spent_seconds": 204,
+        "added_to_cart": false,
+        "revisited": true,
+        "last_viewed": "2026-06-06"
+      },
+      {
+        "product_id": "PROD_066",
+        "category": "accessories",
+        "time_spent_seconds": 173,
+        "added_to_cart": true,
+        "revisited": false,
+        "last_viewed": "2026-06-16"
+      }
+    ],
+    "search_queries": [
+      "pegasus 41",
+      "half marathon shoes",
+      "running socks",
+      "anti chafe shorts"
+    ],
+    "preferred_categories": [
+      "road_running_shoes",
+      "running_apparel_top",
+      "accessories"
+    ]
+  },
+  {
+    "user_id": "USR_002",
+    "purchase_history": [
+      {
+        "product_id": "PROD_002",
+        "product_name": "Nike Pegasus 40",
+        "category": "road_running_shoes",
+        "price_inr": 11295,
+        "purchase_date": "2025-10-05",
+        "is_full_price": true
+      },
+      {
+        "product_id": "PROD_041",
+        "product_name": "Nike Pacer Half-Zip",
+        "category": "running_apparel_top",
+        "price_inr": 2795,
+        "purchase_date": "2026-05-09",
+        "is_full_price": true
+      }
+    ],
+    "browse_history": [
+      {
+        "product_id": "PROD_010",
+        "category": "road_running_shoes",
+        "time_spent_seconds": 74,
+        "added_to_cart": false,
+        "revisited": true,
+        "last_viewed": "2026-06-03"
+      },
+      {
+        "product_id": "PROD_068",
+        "category": "accessories",
+        "time_spent_seconds": 143,
+        "added_to_cart": true,
+        "revisited": false,
+        "last_viewed": "2026-06-10"
+      }
+    ],
+    "search_queries": [
+      "pegasus 41",
+      "half marathon shoes",
+      "running socks",
+      "anti chafe shorts"
+    ],
+    "preferred_categories": [
+      "road_running_shoes",
+      "running_apparel_top",
+      "accessories"
+    ]
+  },
+  {
+    "user_id": "USR_003",
+    "purchase_history": [
+      {
+        "product_id": "PROD_002",
+        "product_name": "Nike Pegasus 40",
+        "category": "road_running_shoes",
+        "price_inr": 11295,
+        "purchase_date": "2025-10-27",
+        "is_full_price": true
+      },
+      {
+        "product_id": "PROD_037",
+        "product_name": "Nike Miler Tank",
+        "category": "running_apparel_top",
+        "price_inr": 4295,
+        "purchase_date": "2026-04-08",
+        "is_full_price": true
+      }
+    ],
+    "browse_history": [
+      {
+        "product_id": "PROD_014",
+        "category": "road_running_shoes",
+        "time_spent_seconds": 114,
+        "added_to_cart": false,
+        "revisited": true,
+        "last_viewed": "2026-06-02"
+      },
+      {
+        "product_id": "PROD_067",
+        "category": "accessories",
+        "time_spent_seconds": 91,
+        "added_to_cart": true,
+        "revisited": false,
+        "last_viewed": "2026-06-08"
+      }
+    ],
+    "search_queries": [
+      "pegasus 41",
+      "half marathon shoes",
+      "running socks",
+      "anti chafe shorts"
+    ],
+    "preferred_categories": [
+      "road_running_shoes",
+      "running_apparel_top",
+      "accessories"
+    ]
+  },
+  {
+    "user_id": "USR_004",
+    "purchase_history": [
+      {
+        "product_id": "PROD_002",
+        "product_name": "Nike Pegasus 40",
+        "category": "road_running_shoes",
+        "price_inr": 11295,
+        "purchase_date": "2025-10-27",
+        "is_full_price": true
+      },
+      {
+        "product_id": "PROD_042",
+        "product_name": "Nike Element Hoodie",
+        "category": "running_apparel_top",
+        "price_inr": 3695,
+        "purchase_date": "2026-02-03",
+        "is_full_price": true
+      }
+    ],
+    "browse_history": [
+      {
+        "product_id": "PROD_009",
+        "category": "road_running_shoes",
+        "time_spent_seconds": 26,
+        "added_to_cart": false,
+        "revisited": true,
+        "last_viewed": "2026-06-02"
+      },
+      {
+        "product_id": "PROD_075",
+        "category": "accessories",
+        "time_spent_seconds": 188,
+        "added_to_cart": true,
+        "revisited": false,
+        "last_viewed": "2026-06-06"
+      }
+    ],
+    "search_queries": [
+      "pegasus 41",
+      "half marathon shoes",
+      "running socks",
+      "anti chafe shorts"
+    ],
+    "preferred_categories": [
+      "road_running_shoes",
+      "running_apparel_top",
+      "accessories"
+    ]
+  },
+  {
+    "user_id": "USR_005",
+    "purchase_history": [
+      {
+        "product_id": "PROD_002",
+        "product_name": "Nike Pegasus 40",
+        "category": "road_running_shoes",
+        "price_inr": 11295,
+        "purchase_date": "2025-10-16",
+        "is_full_price": true
+      },
+      {
+        "product_id": "PROD_036",
+        "product_name": "Nike Dri-FIT Rise 365",
+        "category": "running_apparel_top",
+        "price_inr": 2495,
+        "purchase_date": "2026-04-29",
+        "is_full_price": true
+      }
+    ],
+    "browse_history": [
+      {
+        "product_id": "PROD_005",
+        "category": "road_running_shoes",
+        "time_spent_seconds": 106,
+        "added_to_cart": false,
+        "revisited": true,
+        "last_viewed": "2026-06-10"
+      },
+      {
+        "product_id": "PROD_071",
+        "category": "accessories",
+        "time_spent_seconds": 66,
+        "added_to_cart": true,
+        "revisited": false,
+        "last_viewed": "2026-06-20"
+      }
+    ],
+    "search_queries": [
+      "pegasus 41",
+      "half marathon shoes",
+      "running socks",
+      "anti chafe shorts"
+    ],
+    "preferred_categories": [
+      "road_running_shoes",
+      "running_apparel_top",
+      "accessories"
+    ]
+  },
+  {
+    "user_id": "USR_006",
+    "purchase_history": [
+      {
+        "product_id": "PROD_002",
+        "product_name": "Nike Pegasus 40",
+        "category": "road_running_shoes",
+        "price_inr": 11295,
+        "purchase_date": "2025-11-17",
+        "is_full_price": true
+      },
+      {
+        "product_id": "PROD_045",
+        "product_name": "Nike Fast Tank",
+        "category": "running_apparel_top",
+        "price_inr": 3695,
+        "purchase_date": "2026-02-27",
+        "is_full_price": true
+      }
+    ],
+    "browse_history": [
+      {
+        "product_id": "PROD_007",
+        "category": "road_running_shoes",
+        "time_spent_seconds": 56,
+        "added_to_cart": false,
+        "revisited": true,
+        "last_viewed": "2026-06-17"
+      },
+      {
+        "product_id": "PROD_077",
+        "category": "accessories",
+        "time_spent_seconds": 27,
+        "added_to_cart": true,
+        "revisited": false,
+        "last_viewed": "2026-06-10"
+      }
+    ],
+    "search_queries": [
+      "pegasus 41",
+      "half marathon shoes",
+      "running socks",
+      "anti chafe shorts"
+    ],
+    "preferred_categories": [
+      "road_running_shoes",
+      "running_apparel_top",
+      "accessories"
+    ]
+  },
+  {
+    "user_id": "USR_007",
+    "purchase_history": [
+      {
+        "product_id": "PROD_002",
+        "product_name": "Nike Pegasus 40",
+        "category": "road_running_shoes",
+        "price_inr": 11295,
+        "purchase_date": "2025-11-30",
+        "is_full_price": true
+      },
+      {
+        "product_id": "PROD_044",
+        "product_name": "Nike Run Division Tee",
+        "category": "running_apparel_top",
+        "price_inr": 2395,
+        "purchase_date": "2026-04-25",
+        "is_full_price": true
+      }
+    ],
+    "browse_history": [
+      {
+        "product_id": "PROD_007",
+        "category": "road_running_shoes",
+        "time_spent_seconds": 136,
+        "added_to_cart": false,
+        "revisited": true,
+        "last_viewed": "2026-06-06"
+      },
+      {
+        "product_id": "PROD_071",
+        "category": "accessories",
+        "time_spent_seconds": 114,
+        "added_to_cart": true,
+        "revisited": false,
+        "last_viewed": "2026-06-18"
+      }
+    ],
+    "search_queries": [
+      "pegasus 41",
+      "half marathon shoes",
+      "running socks",
+      "anti chafe shorts"
+    ],
+    "preferred_categories": [
+      "road_running_shoes",
+      "running_apparel_top",
+      "accessories"
+    ]
+  },
+  {
+    "user_id": "USR_008",
+    "purchase_history": [
+      {
+        "product_id": "PROD_002",
+        "product_name": "Nike Pegasus 40",
+        "category": "road_running_shoes",
+        "price_inr": 11295,
+        "purchase_date": "2025-10-05",
+        "is_full_price": true
+      },
+      {
+        "product_id": "PROD_041",
+        "product_name": "Nike Pacer Half-Zip",
+        "category": "running_apparel_top",
+        "price_inr": 2795,
+        "purchase_date": "2026-02-12",
+        "is_full_price": true
+      }
+    ],
+    "browse_history": [
+      {
+        "product_id": "PROD_010",
+        "category": "road_running_shoes",
+        "time_spent_seconds": 33,
+        "added_to_cart": false,
+        "revisited": true,
+        "last_viewed": "2026-06-17"
+      },
+      {
+        "product_id": "PROD_068",
+        "category": "accessories",
+        "time_spent_seconds": 213,
+        "added_to_cart": true,
+        "revisited": false,
+        "last_viewed": "2026-06-18"
+      }
+    ],
+    "search_queries": [
+      "pegasus 41",
+      "half marathon shoes",
+      "running socks",
+      "anti chafe shorts"
+    ],
+    "preferred_categories": [
+      "road_running_shoes",
+      "running_apparel_top",
+      "accessories"
+    ]
+  },
+  {
+    "user_id": "USR_009",
+    "purchase_history": [
+      {
+        "product_id": "PROD_002",
+        "product_name": "Nike Pegasus 40",
+        "category": "road_running_shoes",
+        "price_inr": 11295,
+        "purchase_date": "2025-12-11",
+        "is_full_price": true
+      },
+      {
+        "product_id": "PROD_037",
+        "product_name": "Nike Miler Tank",
+        "category": "running_apparel_top",
+        "price_inr": 4295,
+        "purchase_date": "2026-04-18",
+        "is_full_price": true
+      }
+    ],
+    "browse_history": [
+      {
+        "product_id": "PROD_008",
+        "category": "road_running_shoes",
+        "time_spent_seconds": 144,
+        "added_to_cart": false,
+        "revisited": true,
+        "last_viewed": "2026-06-06"
+      },
+      {
+        "product_id": "PROD_075",
+        "category": "accessories",
+        "time_spent_seconds": 126,
+        "added_to_cart": true,
+        "revisited": false,
+        "last_viewed": "2026-06-13"
+      }
+    ],
+    "search_queries": [
+      "pegasus 41",
+      "half marathon shoes",
+      "running socks",
+      "anti chafe shorts"
+    ],
+    "preferred_categories": [
+      "road_running_shoes",
+      "running_apparel_top",
+      "accessories"
+    ]
+  },
+  {
+    "user_id": "USR_010",
+    "purchase_history": [
+      {
+        "product_id": "PROD_002",
+        "product_name": "Nike Pegasus 40",
+        "category": "road_running_shoes",
+        "price_inr": 11295,
+        "purchase_date": "2025-10-15",
+        "is_full_price": true
+      },
+      {
+        "product_id": "PROD_039",
+        "product_name": "Nike Dri-FIT ADV Techknit",
+        "category": "running_apparel_top",
+        "price_inr": 2295,
+        "purchase_date": "2026-02-15",
+        "is_full_price": true
+      }
+    ],
+    "browse_history": [
+      {
+        "product_id": "PROD_009",
+        "category": "road_running_shoes",
+        "time_spent_seconds": 108,
+        "added_to_cart": false,
+        "revisited": true,
+        "last_viewed": "2026-06-16"
+      },
+      {
+        "product_id": "PROD_072",
+        "category": "accessories",
+        "time_spent_seconds": 92,
+        "added_to_cart": true,
+        "revisited": false,
+        "last_viewed": "2026-06-19"
+      }
+    ],
+    "search_queries": [
+      "pegasus 41",
+      "half marathon shoes",
+      "running socks",
+      "anti chafe shorts"
+    ],
+    "preferred_categories": [
+      "road_running_shoes",
+      "running_apparel_top",
+      "accessories"
+    ]
+  },
+  {
+    "user_id": "USR_011",
+    "purchase_history": [
+      {
+        "product_id": "PROD_015",
+        "product_name": "Nike Pegasus Turbo Next",
+        "category": "road_running_shoes",
+        "price_inr": 18095,
+        "purchase_date": "2025-10-20",
+        "is_full_price": true
+      }
+    ],
+    "browse_history": [
+      {
+        "product_id": "PROD_054",
+        "category": "running_apparel_bottom",
+        "time_spent_seconds": 98,
+        "added_to_cart": false,
+        "revisited": false,
+        "last_viewed": "2026-05-28"
+      },
+      {
+        "product_id": "PROD_036",
+        "category": "running_apparel_top",
+        "time_spent_seconds": 121,
+        "added_to_cart": false,
+        "revisited": true,
+        "last_viewed": "2026-06-17"
+      }
+    ],
+    "search_queries": [
+      "beginner running shoes",
+      "treadmill shoes",
+      "gym tee"
+    ],
+    "preferred_categories": [
+      "road_running_shoes",
+      "running_apparel_top"
+    ]
+  },
+  {
+    "user_id": "USR_012",
+    "purchase_history": [
+      {
+        "product_id": "PROD_015",
+        "product_name": "Nike Pegasus Turbo Next",
+        "category": "road_running_shoes",
+        "price_inr": 18095,
+        "purchase_date": "2026-02-07",
+        "is_full_price": true
+      }
+    ],
+    "browse_history": [
+      {
+        "product_id": "PROD_046",
+        "category": "running_apparel_bottom",
+        "time_spent_seconds": 97,
+        "added_to_cart": false,
+        "revisited": false,
+        "last_viewed": "2026-06-12"
+      },
+      {
+        "product_id": "PROD_039",
+        "category": "running_apparel_top",
+        "time_spent_seconds": 215,
+        "added_to_cart": false,
+        "revisited": true,
+        "last_viewed": "2026-06-18"
+      }
+    ],
+    "search_queries": [
+      "beginner running shoes",
+      "treadmill shoes",
+      "gym tee"
+    ],
+    "preferred_categories": [
+      "road_running_shoes",
+      "running_apparel_top"
+    ]
+  },
+  {
+    "user_id": "USR_013",
+    "purchase_history": [
+      {
+        "product_id": "PROD_013",
+        "product_name": "Nike Downshifter 13",
+        "category": "road_running_shoes",
+        "price_inr": 20195,
+        "purchase_date": "2025-12-09",
+        "is_full_price": true
+      }
+    ],
+    "browse_history": [
+      {
+        "product_id": "PROD_051",
+        "category": "running_apparel_bottom",
+        "time_spent_seconds": 21,
+        "added_to_cart": false,
+        "revisited": false,
+        "last_viewed": "2026-06-15"
+      },
+      {
+        "product_id": "PROD_043",
+        "category": "running_apparel_top",
+        "time_spent_seconds": 130,
+        "added_to_cart": false,
+        "revisited": true,
+        "last_viewed": "2026-06-09"
+      }
+    ],
+    "search_queries": [
+      "beginner running shoes",
+      "treadmill shoes",
+      "gym tee"
+    ],
+    "preferred_categories": [
+      "road_running_shoes",
+      "running_apparel_top"
+    ]
+  },
+  {
+    "user_id": "USR_014",
+    "purchase_history": [
+      {
+        "product_id": "PROD_012",
+        "product_name": "Nike Revolution 7",
+        "category": "road_running_shoes",
+        "price_inr": 15095,
+        "purchase_date": "2026-01-19",
+        "is_full_price": true
+      }
+    ],
+    "browse_history": [
+      {
+        "product_id": "PROD_052",
+        "category": "running_apparel_bottom",
+        "time_spent_seconds": 200,
+        "added_to_cart": false,
+        "revisited": false,
+        "last_viewed": "2026-06-01"
+      },
+      {
+        "product_id": "PROD_039",
+        "category": "running_apparel_top",
+        "time_spent_seconds": 163,
+        "added_to_cart": false,
+        "revisited": true,
+        "last_viewed": "2026-06-12"
+      }
+    ],
+    "search_queries": [
+      "beginner running shoes",
+      "treadmill shoes",
+      "gym tee"
+    ],
+    "preferred_categories": [
+      "road_running_shoes",
+      "running_apparel_top"
+    ]
+  },
+  {
+    "user_id": "USR_015",
+    "purchase_history": [
+      {
+        "product_id": "PROD_013",
+        "product_name": "Nike Downshifter 13",
+        "category": "road_running_shoes",
+        "price_inr": 20195,
+        "purchase_date": "2026-02-03",
+        "is_full_price": true
+      }
+    ],
+    "browse_history": [
+      {
+        "product_id": "PROD_052",
+        "category": "running_apparel_bottom",
+        "time_spent_seconds": 131,
+        "added_to_cart": false,
+        "revisited": false,
+        "last_viewed": "2026-06-17"
+      },
+      {
+        "product_id": "PROD_036",
+        "category": "running_apparel_top",
+        "time_spent_seconds": 39,
+        "added_to_cart": false,
+        "revisited": true,
+        "last_viewed": "2026-06-13"
+      }
+    ],
+    "search_queries": [
+      "beginner running shoes",
+      "treadmill shoes",
+      "gym tee"
+    ],
+    "preferred_categories": [
+      "road_running_shoes",
+      "running_apparel_top"
+    ]
+  },
+  {
+    "user_id": "USR_016",
+    "purchase_history": [
+      {
+        "product_id": "PROD_013",
+        "product_name": "Nike Downshifter 13",
+        "category": "road_running_shoes",
+        "price_inr": 20195,
+        "purchase_date": "2025-09-27",
+        "is_full_price": true
+      }
+    ],
+    "browse_history": [
+      {
+        "product_id": "PROD_052",
+        "category": "running_apparel_bottom",
+        "time_spent_seconds": 123,
+        "added_to_cart": false,
+        "revisited": false,
+        "last_viewed": "2026-05-31"
+      },
+      {
+        "product_id": "PROD_042",
+        "category": "running_apparel_top",
+        "time_spent_seconds": 49,
+        "added_to_cart": false,
+        "revisited": true,
+        "last_viewed": "2026-06-16"
+      }
+    ],
+    "search_queries": [
+      "beginner running shoes",
+      "treadmill shoes",
+      "gym tee"
+    ],
+    "preferred_categories": [
+      "road_running_shoes",
+      "running_apparel_top"
+    ]
+  },
+  {
+    "user_id": "USR_017",
+    "purchase_history": [
+      {
+        "product_id": "PROD_014",
+        "product_name": "Nike Winflo 11",
+        "category": "road_running_shoes",
+        "price_inr": 16595,
+        "purchase_date": "2026-02-16",
+        "is_full_price": true
+      }
+    ],
+    "browse_history": [
+      {
+        "product_id": "PROD_051",
+        "category": "running_apparel_bottom",
+        "time_spent_seconds": 178,
+        "added_to_cart": false,
+        "revisited": false,
+        "last_viewed": "2026-06-13"
+      },
+      {
+        "product_id": "PROD_043",
+        "category": "running_apparel_top",
+        "time_spent_seconds": 112,
+        "added_to_cart": false,
+        "revisited": true,
+        "last_viewed": "2026-06-09"
+      }
+    ],
+    "search_queries": [
+      "beginner running shoes",
+      "treadmill shoes",
+      "gym tee"
+    ],
+    "preferred_categories": [
+      "road_running_shoes",
+      "running_apparel_top"
+    ]
+  },
+  {
+    "user_id": "USR_018",
+    "purchase_history": [
+      {
+        "product_id": "PROD_011",
+        "product_name": "Nike Rival Fly 3",
+        "category": "road_running_shoes",
+        "price_inr": 15195,
+        "purchase_date": "2025-11-02",
+        "is_full_price": true
+      }
+    ],
+    "browse_history": [
+      {
+        "product_id": "PROD_047",
+        "category": "running_apparel_bottom",
+        "time_spent_seconds": 131,
+        "added_to_cart": false,
+        "revisited": false,
+        "last_viewed": "2026-06-11"
+      },
+      {
+        "product_id": "PROD_045",
+        "category": "running_apparel_top",
+        "time_spent_seconds": 154,
+        "added_to_cart": false,
+        "revisited": true,
+        "last_viewed": "2026-06-14"
+      }
+    ],
+    "search_queries": [
+      "beginner running shoes",
+      "treadmill shoes",
+      "gym tee"
+    ],
+    "preferred_categories": [
+      "road_running_shoes",
+      "running_apparel_top"
+    ]
+  },
+  {
+    "user_id": "USR_019",
+    "purchase_history": [
+      {
+        "product_id": "PROD_011",
+        "product_name": "Nike Rival Fly 3",
+        "category": "road_running_shoes",
+        "price_inr": 15195,
+        "purchase_date": "2025-11-12",
+        "is_full_price": true
+      }
+    ],
+    "browse_history": [
+      {
+        "product_id": "PROD_050",
+        "category": "running_apparel_bottom",
+        "time_spent_seconds": 76,
+        "added_to_cart": false,
+        "revisited": false,
+        "last_viewed": "2026-06-08"
+      },
+      {
+        "product_id": "PROD_041",
+        "category": "running_apparel_top",
+        "time_spent_seconds": 39,
+        "added_to_cart": false,
+        "revisited": true,
+        "last_viewed": "2026-06-18"
+      }
+    ],
+    "search_queries": [
+      "beginner running shoes",
+      "treadmill shoes",
+      "gym tee"
+    ],
+    "preferred_categories": [
+      "road_running_shoes",
+      "running_apparel_top"
+    ]
+  },
+  {
+    "user_id": "USR_020",
+    "purchase_history": [
+      {
+        "product_id": "PROD_015",
+        "product_name": "Nike Pegasus Turbo Next",
+        "category": "road_running_shoes",
+        "price_inr": 18095,
+        "purchase_date": "2025-09-12",
+        "is_full_price": true
+      }
+    ],
+    "browse_history": [
+      {
+        "product_id": "PROD_047",
+        "category": "running_apparel_bottom",
+        "time_spent_seconds": 150,
+        "added_to_cart": false,
+        "revisited": false,
+        "last_viewed": "2026-06-02"
+      },
+      {
+        "product_id": "PROD_039",
+        "category": "running_apparel_top",
+        "time_spent_seconds": 109,
+        "added_to_cart": false,
+        "revisited": true,
+        "last_viewed": "2026-06-15"
+      }
+    ],
+    "search_queries": [
+      "beginner running shoes",
+      "treadmill shoes",
+      "gym tee"
+    ],
+    "preferred_categories": [
+      "road_running_shoes",
+      "running_apparel_top"
+    ]
+  },
+  {
+    "user_id": "USR_021",
+    "purchase_history": [
+      {
+        "product_id": "PROD_027",
+        "product_name": "Nike Free Metcon 6",
+        "category": "training_shoes",
+        "price_inr": 12195,
+        "purchase_date": "2026-02-21",
+        "is_full_price": true
+      },
+      {
+        "product_id": "PROD_057",
+        "product_name": "Nike Dri-FIT Training Tee",
+        "category": "training_apparel",
+        "price_inr": 3895,
+        "purchase_date": "2026-05-14",
+        "is_full_price": true
+      }
+    ],
+    "browse_history": [
+      {
+        "product_id": "PROD_030",
+        "category": "training_shoes",
+        "time_spent_seconds": 64,
+        "added_to_cart": false,
+        "revisited": true,
+        "last_viewed": "2026-06-17"
+      },
+      {
+        "product_id": "PROD_075",
+        "category": "accessories",
+        "time_spent_seconds": 214,
+        "added_to_cart": false,
+        "revisited": false,
+        "last_viewed": "2026-06-15"
+      }
+    ],
+    "search_queries": [
+      "metcon 9",
+      "lifting shoes",
+      "training shorts",
+      "wrist wraps"
+    ],
+    "preferred_categories": [
+      "training_shoes",
+      "training_apparel",
+      "accessories"
+    ]
+  },
+  {
+    "user_id": "USR_022",
+    "purchase_history": [
+      {
+        "product_id": "PROD_026",
+        "product_name": "Nike Metcon 9",
+        "category": "training_shoes",
+        "price_inr": 11695,
+        "purchase_date": "2026-03-08",
+        "is_full_price": true
+      },
+      {
+        "product_id": "PROD_063",
+        "product_name": "Nike ADV A.P.S. Top",
+        "category": "training_apparel",
+        "price_inr": 4495,
+        "purchase_date": "2026-04-03",
+        "is_full_price": true
+      }
+    ],
+    "browse_history": [
+      {
+        "product_id": "PROD_035",
+        "category": "training_shoes",
+        "time_spent_seconds": 168,
+        "added_to_cart": false,
+        "revisited": true,
+        "last_viewed": "2026-06-08"
+      },
+      {
+        "product_id": "PROD_073",
+        "category": "accessories",
+        "time_spent_seconds": 180,
+        "added_to_cart": false,
+        "revisited": false,
+        "last_viewed": "2026-06-09"
+      }
+    ],
+    "search_queries": [
+      "metcon 9",
+      "lifting shoes",
+      "training shorts",
+      "wrist wraps"
+    ],
+    "preferred_categories": [
+      "training_shoes",
+      "training_apparel",
+      "accessories"
+    ]
+  },
+  {
+    "user_id": "USR_023",
+    "purchase_history": [
+      {
+        "product_id": "PROD_028",
+        "product_name": "Nike Air Zoom SuperRep 3",
+        "category": "training_shoes",
+        "price_inr": 9595,
+        "purchase_date": "2026-03-15",
+        "is_full_price": true
+      },
+      {
+        "product_id": "PROD_063",
+        "product_name": "Nike ADV A.P.S. Top",
+        "category": "training_apparel",
+        "price_inr": 4495,
+        "purchase_date": "2026-05-24",
+        "is_full_price": true
+      }
+    ],
+    "browse_history": [
+      {
+        "product_id": "PROD_033",
+        "category": "training_shoes",
+        "time_spent_seconds": 181,
+        "added_to_cart": false,
+        "revisited": true,
+        "last_viewed": "2026-06-13"
+      },
+      {
+        "product_id": "PROD_070",
+        "category": "accessories",
+        "time_spent_seconds": 171,
+        "added_to_cart": false,
+        "revisited": false,
+        "last_viewed": "2026-06-11"
+      }
+    ],
+    "search_queries": [
+      "metcon 9",
+      "lifting shoes",
+      "training shorts",
+      "wrist wraps"
+    ],
+    "preferred_categories": [
+      "training_shoes",
+      "training_apparel",
+      "accessories"
+    ]
+  },
+  {
+    "user_id": "USR_024",
+    "purchase_history": [
+      {
+        "product_id": "PROD_026",
+        "product_name": "Nike Metcon 9",
+        "category": "training_shoes",
+        "price_inr": 11695,
+        "purchase_date": "2026-01-22",
+        "is_full_price": true
+      },
+      {
+        "product_id": "PROD_064",
+        "product_name": "Nike Form Hoodie",
+        "category": "training_apparel",
+        "price_inr": 2295,
+        "purchase_date": "2026-05-23",
+        "is_full_price": true
+      }
+    ],
+    "browse_history": [
+      {
+        "product_id": "PROD_030",
+        "category": "training_shoes",
+        "time_spent_seconds": 135,
+        "added_to_cart": false,
+        "revisited": true,
+        "last_viewed": "2026-06-13"
+      },
+      {
+        "product_id": "PROD_066",
+        "category": "accessories",
+        "time_spent_seconds": 114,
+        "added_to_cart": false,
+        "revisited": false,
+        "last_viewed": "2026-06-18"
+      }
+    ],
+    "search_queries": [
+      "metcon 9",
+      "lifting shoes",
+      "training shorts",
+      "wrist wraps"
+    ],
+    "preferred_categories": [
+      "training_shoes",
+      "training_apparel",
+      "accessories"
+    ]
+  },
+  {
+    "user_id": "USR_025",
+    "purchase_history": [
+      {
+        "product_id": "PROD_028",
+        "product_name": "Nike Air Zoom SuperRep 3",
+        "category": "training_shoes",
+        "price_inr": 9595,
+        "purchase_date": "2026-04-03",
+        "is_full_price": true
+      },
+      {
+        "product_id": "PROD_057",
+        "product_name": "Nike Dri-FIT Training Tee",
+        "category": "training_apparel",
+        "price_inr": 3895,
+        "purchase_date": "2026-03-15",
+        "is_full_price": true
+      }
+    ],
+    "browse_history": [
+      {
+        "product_id": "PROD_035",
+        "category": "training_shoes",
+        "time_spent_seconds": 118,
+        "added_to_cart": false,
+        "revisited": true,
+        "last_viewed": "2026-06-12"
+      },
+      {
+        "product_id": "PROD_073",
+        "category": "accessories",
+        "time_spent_seconds": 135,
+        "added_to_cart": false,
+        "revisited": false,
+        "last_viewed": "2026-06-18"
+      }
+    ],
+    "search_queries": [
+      "metcon 9",
+      "lifting shoes",
+      "training shorts",
+      "wrist wraps"
+    ],
+    "preferred_categories": [
+      "training_shoes",
+      "training_apparel",
+      "accessories"
+    ]
+  },
+  {
+    "user_id": "USR_026",
+    "purchase_history": [
+      {
+        "product_id": "PROD_027",
+        "product_name": "Nike Free Metcon 6",
+        "category": "training_shoes",
+        "price_inr": 12195,
+        "purchase_date": "2026-01-30",
+        "is_full_price": true
+      },
+      {
+        "product_id": "PROD_065",
+        "product_name": "Nike Pro Combat Tee",
+        "category": "training_apparel",
+        "price_inr": 2395,
+        "purchase_date": "2026-04-02",
+        "is_full_price": true
+      }
+    ],
+    "browse_history": [
+      {
+        "product_id": "PROD_034",
+        "category": "training_shoes",
+        "time_spent_seconds": 35,
+        "added_to_cart": false,
+        "revisited": true,
+        "last_viewed": "2026-06-18"
+      },
+      {
+        "product_id": "PROD_073",
+        "category": "accessories",
+        "time_spent_seconds": 107,
+        "added_to_cart": false,
+        "revisited": false,
+        "last_viewed": "2026-06-16"
+      }
+    ],
+    "search_queries": [
+      "metcon 9",
+      "lifting shoes",
+      "training shorts",
+      "wrist wraps"
+    ],
+    "preferred_categories": [
+      "training_shoes",
+      "training_apparel",
+      "accessories"
+    ]
+  },
+  {
+    "user_id": "USR_027",
+    "purchase_history": [
+      {
+        "product_id": "PROD_026",
+        "product_name": "Nike Metcon 9",
+        "category": "training_shoes",
+        "price_inr": 11695,
+        "purchase_date": "2025-12-14",
+        "is_full_price": true
+      },
+      {
+        "product_id": "PROD_058",
+        "product_name": "Nike Pro 365 Tight",
+        "category": "training_apparel",
+        "price_inr": 2795,
+        "purchase_date": "2026-05-27",
+        "is_full_price": true
+      }
+    ],
+    "browse_history": [
+      {
+        "product_id": "PROD_029",
+        "category": "training_shoes",
+        "time_spent_seconds": 132,
+        "added_to_cart": false,
+        "revisited": true,
+        "last_viewed": "2026-06-09"
+      },
+      {
+        "product_id": "PROD_073",
+        "category": "accessories",
+        "time_spent_seconds": 153,
+        "added_to_cart": false,
+        "revisited": false,
+        "last_viewed": "2026-06-03"
+      }
+    ],
+    "search_queries": [
+      "metcon 9",
+      "lifting shoes",
+      "training shorts",
+      "wrist wraps"
+    ],
+    "preferred_categories": [
+      "training_shoes",
+      "training_apparel",
+      "accessories"
+    ]
+  },
+  {
+    "user_id": "USR_028",
+    "purchase_history": [
+      {
+        "product_id": "PROD_027",
+        "product_name": "Nike Free Metcon 6",
+        "category": "training_shoes",
+        "price_inr": 12195,
+        "purchase_date": "2026-01-19",
+        "is_full_price": true
+      },
+      {
+        "product_id": "PROD_061",
+        "product_name": "Nike Pro Dri-FIT Tank",
+        "category": "training_apparel",
+        "price_inr": 2295,
+        "purchase_date": "2026-04-26",
+        "is_full_price": true
+      }
+    ],
+    "browse_history": [
+      {
+        "product_id": "PROD_032",
+        "category": "training_shoes",
+        "time_spent_seconds": 218,
+        "added_to_cart": false,
+        "revisited": true,
+        "last_viewed": "2026-06-14"
+      },
+      {
+        "product_id": "PROD_071",
+        "category": "accessories",
+        "time_spent_seconds": 181,
+        "added_to_cart": false,
+        "revisited": false,
+        "last_viewed": "2026-06-18"
+      }
+    ],
+    "search_queries": [
+      "metcon 9",
+      "lifting shoes",
+      "training shorts",
+      "wrist wraps"
+    ],
+    "preferred_categories": [
+      "training_shoes",
+      "training_apparel",
+      "accessories"
+    ]
+  },
+  {
+    "user_id": "USR_029",
+    "purchase_history": [
+      {
+        "product_id": "PROD_028",
+        "product_name": "Nike Air Zoom SuperRep 3",
+        "category": "training_shoes",
+        "price_inr": 9595,
+        "purchase_date": "2026-04-06",
+        "is_full_price": true
+      },
+      {
+        "product_id": "PROD_061",
+        "product_name": "Nike Pro Dri-FIT Tank",
+        "category": "training_apparel",
+        "price_inr": 2295,
+        "purchase_date": "2026-05-20",
+        "is_full_price": true
+      }
+    ],
+    "browse_history": [
+      {
+        "product_id": "PROD_034",
+        "category": "training_shoes",
+        "time_spent_seconds": 118,
+        "added_to_cart": false,
+        "revisited": true,
+        "last_viewed": "2026-06-10"
+      },
+      {
+        "product_id": "PROD_070",
+        "category": "accessories",
+        "time_spent_seconds": 205,
+        "added_to_cart": false,
+        "revisited": false,
+        "last_viewed": "2026-06-11"
+      }
+    ],
+    "search_queries": [
+      "metcon 9",
+      "lifting shoes",
+      "training shorts",
+      "wrist wraps"
+    ],
+    "preferred_categories": [
+      "training_shoes",
+      "training_apparel",
+      "accessories"
+    ]
+  },
+  {
+    "user_id": "USR_030",
+    "purchase_history": [
+      {
+        "product_id": "PROD_027",
+        "product_name": "Nike Free Metcon 6",
+        "category": "training_shoes",
+        "price_inr": 12195,
+        "purchase_date": "2026-01-27",
+        "is_full_price": true
+      },
+      {
+        "product_id": "PROD_057",
+        "product_name": "Nike Dri-FIT Training Tee",
+        "category": "training_apparel",
+        "price_inr": 3895,
+        "purchase_date": "2026-03-19",
+        "is_full_price": true
+      }
+    ],
+    "browse_history": [
+      {
+        "product_id": "PROD_028",
+        "category": "training_shoes",
+        "time_spent_seconds": 109,
+        "added_to_cart": false,
+        "revisited": true,
+        "last_viewed": "2026-06-06"
+      },
+      {
+        "product_id": "PROD_070",
+        "category": "accessories",
+        "time_spent_seconds": 53,
+        "added_to_cart": false,
+        "revisited": false,
+        "last_viewed": "2026-06-07"
+      }
+    ],
+    "search_queries": [
+      "metcon 9",
+      "lifting shoes",
+      "training shorts",
+      "wrist wraps"
+    ],
+    "preferred_categories": [
+      "training_shoes",
+      "training_apparel",
+      "accessories"
+    ]
+  },
+  {
+    "user_id": "USR_031",
+    "purchase_history": [
+      {
+        "product_id": "PROD_025",
+        "product_name": "Nike Trail Roam",
+        "category": "trail_running_shoes",
+        "price_inr": 14395,
+        "purchase_date": "2026-03-02",
+        "is_full_price": true
+      },
+      {
+        "product_id": "PROD_060",
+        "product_name": "Nike Form Pants",
+        "category": "training_apparel",
+        "price_inr": 4095,
+        "purchase_date": "2026-03-17",
+        "is_full_price": true
+      }
+    ],
+    "browse_history": [
+      {
+        "product_id": "PROD_007",
+        "category": "road_running_shoes",
+        "time_spent_seconds": 104,
+        "added_to_cart": false,
+        "revisited": true,
+        "last_viewed": "2026-05-30"
+      },
+      {
+        "product_id": "PROD_038",
+        "category": "running_apparel_top",
+        "time_spent_seconds": 199,
+        "added_to_cart": true,
+        "revisited": false,
+        "last_viewed": "2026-06-10"
+      }
+    ],
+    "search_queries": [
+      "trail shoes",
+      "10k training",
+      "compression sleeves"
+    ],
+    "preferred_categories": [
+      "trail_running_shoes",
+      "training_apparel",
+      "road_running_shoes"
+    ]
+  },
+  {
+    "user_id": "USR_032",
+    "purchase_history": [
+      {
+        "product_id": "PROD_024",
+        "product_name": "Nike Terrascout GTX",
+        "category": "trail_running_shoes",
+        "price_inr": 12095,
+        "purchase_date": "2026-02-28",
+        "is_full_price": true
+      },
+      {
+        "product_id": "PROD_062",
+        "product_name": "Nike Totality Shorts",
+        "category": "training_apparel",
+        "price_inr": 2395,
+        "purchase_date": "2026-03-23",
+        "is_full_price": true
+      }
+    ],
+    "browse_history": [
+      {
+        "product_id": "PROD_006",
+        "category": "road_running_shoes",
+        "time_spent_seconds": 112,
+        "added_to_cart": false,
+        "revisited": true,
+        "last_viewed": "2026-06-19"
+      },
+      {
+        "product_id": "PROD_040",
+        "category": "running_apparel_top",
+        "time_spent_seconds": 74,
+        "added_to_cart": true,
+        "revisited": false,
+        "last_viewed": "2026-06-18"
+      }
+    ],
+    "search_queries": [
+      "trail shoes",
+      "10k training",
+      "compression sleeves"
+    ],
+    "preferred_categories": [
+      "trail_running_shoes",
+      "training_apparel",
+      "road_running_shoes"
+    ]
+  },
+  {
+    "user_id": "USR_033",
+    "purchase_history": [
+      {
+        "product_id": "PROD_021",
+        "product_name": "Nike Zegama 2",
+        "category": "trail_running_shoes",
+        "price_inr": 14195,
+        "purchase_date": "2025-11-19",
+        "is_full_price": true
+      },
+      {
+        "product_id": "PROD_059",
+        "product_name": "Nike Unlimited Shorts",
+        "category": "training_apparel",
+        "price_inr": 3695,
+        "purchase_date": "2026-04-29",
+        "is_full_price": true
+      }
+    ],
+    "browse_history": [
+      {
+        "product_id": "PROD_003",
+        "category": "road_running_shoes",
+        "time_spent_seconds": 39,
+        "added_to_cart": false,
+        "revisited": true,
+        "last_viewed": "2026-06-15"
+      },
+      {
+        "product_id": "PROD_040",
+        "category": "running_apparel_top",
+        "time_spent_seconds": 45,
+        "added_to_cart": true,
+        "revisited": false,
+        "last_viewed": "2026-06-07"
+      }
+    ],
+    "search_queries": [
+      "trail shoes",
+      "10k training",
+      "compression sleeves"
+    ],
+    "preferred_categories": [
+      "trail_running_shoes",
+      "training_apparel",
+      "road_running_shoes"
+    ]
+  },
+  {
+    "user_id": "USR_034",
+    "purchase_history": [
+      {
+        "product_id": "PROD_024",
+        "product_name": "Nike Terrascout GTX",
+        "category": "trail_running_shoes",
+        "price_inr": 12095,
+        "purchase_date": "2025-11-05",
+        "is_full_price": true
+      },
+      {
+        "product_id": "PROD_064",
+        "product_name": "Nike Form Hoodie",
+        "category": "training_apparel",
+        "price_inr": 2295,
+        "purchase_date": "2026-05-23",
+        "is_full_price": true
+      }
+    ],
+    "browse_history": [
+      {
+        "product_id": "PROD_011",
+        "category": "road_running_shoes",
+        "time_spent_seconds": 216,
+        "added_to_cart": false,
+        "revisited": true,
+        "last_viewed": "2026-06-09"
+      },
+      {
+        "product_id": "PROD_045",
+        "category": "running_apparel_top",
+        "time_spent_seconds": 172,
+        "added_to_cart": true,
+        "revisited": false,
+        "last_viewed": "2026-06-18"
+      }
+    ],
+    "search_queries": [
+      "trail shoes",
+      "10k training",
+      "compression sleeves"
+    ],
+    "preferred_categories": [
+      "trail_running_shoes",
+      "training_apparel",
+      "road_running_shoes"
+    ]
+  },
+  {
+    "user_id": "USR_035",
+    "purchase_history": [
+      {
+        "product_id": "PROD_022",
+        "product_name": "Nike Wildhorse 9",
+        "category": "trail_running_shoes",
+        "price_inr": 11195,
+        "purchase_date": "2026-02-12",
+        "is_full_price": true
+      },
+      {
+        "product_id": "PROD_058",
+        "product_name": "Nike Pro 365 Tight",
+        "category": "training_apparel",
+        "price_inr": 2795,
+        "purchase_date": "2026-05-04",
+        "is_full_price": true
+      }
+    ],
+    "browse_history": [
+      {
+        "product_id": "PROD_014",
+        "category": "road_running_shoes",
+        "time_spent_seconds": 62,
+        "added_to_cart": false,
+        "revisited": true,
+        "last_viewed": "2026-05-31"
+      },
+      {
+        "product_id": "PROD_043",
+        "category": "running_apparel_top",
+        "time_spent_seconds": 125,
+        "added_to_cart": true,
+        "revisited": false,
+        "last_viewed": "2026-06-20"
+      }
+    ],
+    "search_queries": [
+      "trail shoes",
+      "10k training",
+      "compression sleeves"
+    ],
+    "preferred_categories": [
+      "trail_running_shoes",
+      "training_apparel",
+      "road_running_shoes"
+    ]
+  },
+  {
+    "user_id": "USR_036",
+    "purchase_history": [
+      {
+        "product_id": "PROD_021",
+        "product_name": "Nike Zegama 2",
+        "category": "trail_running_shoes",
+        "price_inr": 14195,
+        "purchase_date": "2026-01-22",
+        "is_full_price": true
+      },
+      {
+        "product_id": "PROD_063",
+        "product_name": "Nike ADV A.P.S. Top",
+        "category": "training_apparel",
+        "price_inr": 4495,
+        "purchase_date": "2026-03-10",
+        "is_full_price": true
+      }
+    ],
+    "browse_history": [
+      {
+        "product_id": "PROD_005",
+        "category": "road_running_shoes",
+        "time_spent_seconds": 79,
+        "added_to_cart": false,
+        "revisited": true,
+        "last_viewed": "2026-06-05"
+      },
+      {
+        "product_id": "PROD_044",
+        "category": "running_apparel_top",
+        "time_spent_seconds": 99,
+        "added_to_cart": true,
+        "revisited": false,
+        "last_viewed": "2026-06-17"
+      }
+    ],
+    "search_queries": [
+      "trail shoes",
+      "10k training",
+      "compression sleeves"
+    ],
+    "preferred_categories": [
+      "trail_running_shoes",
+      "training_apparel",
+      "road_running_shoes"
+    ]
+  },
+  {
+    "user_id": "USR_037",
+    "purchase_history": [
+      {
+        "product_id": "PROD_023",
+        "product_name": "Nike Ultrafly Trail",
+        "category": "trail_running_shoes",
+        "price_inr": 10495,
+        "purchase_date": "2026-02-02",
+        "is_full_price": true
+      },
+      {
+        "product_id": "PROD_061",
+        "product_name": "Nike Pro Dri-FIT Tank",
+        "category": "training_apparel",
+        "price_inr": 2295,
+        "purchase_date": "2026-03-02",
+        "is_full_price": true
+      }
+    ],
+    "browse_history": [
+      {
+        "product_id": "PROD_010",
+        "category": "road_running_shoes",
+        "time_spent_seconds": 138,
+        "added_to_cart": false,
+        "revisited": true,
+        "last_viewed": "2026-06-05"
+      },
+      {
+        "product_id": "PROD_040",
+        "category": "running_apparel_top",
+        "time_spent_seconds": 117,
+        "added_to_cart": true,
+        "revisited": false,
+        "last_viewed": "2026-06-08"
+      }
+    ],
+    "search_queries": [
+      "trail shoes",
+      "10k training",
+      "compression sleeves"
+    ],
+    "preferred_categories": [
+      "trail_running_shoes",
+      "training_apparel",
+      "road_running_shoes"
+    ]
+  },
+  {
+    "user_id": "USR_038",
+    "purchase_history": [
+      {
+        "product_id": "PROD_024",
+        "product_name": "Nike Terrascout GTX",
+        "category": "trail_running_shoes",
+        "price_inr": 12095,
+        "purchase_date": "2025-11-08",
+        "is_full_price": true
+      },
+      {
+        "product_id": "PROD_062",
+        "product_name": "Nike Totality Shorts",
+        "category": "training_apparel",
+        "price_inr": 2395,
+        "purchase_date": "2026-05-07",
+        "is_full_price": true
+      }
+    ],
+    "browse_history": [
+      {
+        "product_id": "PROD_014",
+        "category": "road_running_shoes",
+        "time_spent_seconds": 174,
+        "added_to_cart": false,
+        "revisited": true,
+        "last_viewed": "2026-06-13"
+      },
+      {
+        "product_id": "PROD_038",
+        "category": "running_apparel_top",
+        "time_spent_seconds": 84,
+        "added_to_cart": true,
+        "revisited": false,
+        "last_viewed": "2026-06-07"
+      }
+    ],
+    "search_queries": [
+      "trail shoes",
+      "10k training",
+      "compression sleeves"
+    ],
+    "preferred_categories": [
+      "trail_running_shoes",
+      "training_apparel",
+      "road_running_shoes"
+    ]
+  },
+  {
+    "user_id": "USR_039",
+    "purchase_history": [
+      {
+        "product_id": "PROD_016",
+        "product_name": "Nike Wildhorse 8",
+        "category": "trail_running_shoes",
+        "price_inr": 11895,
+        "purchase_date": "2025-10-10",
+        "is_full_price": true
+      },
+      {
+        "product_id": "PROD_063",
+        "product_name": "Nike ADV A.P.S. Top",
+        "category": "training_apparel",
+        "price_inr": 4495,
+        "purchase_date": "2026-04-10",
+        "is_full_price": true
+      }
+    ],
+    "browse_history": [
+      {
+        "product_id": "PROD_009",
+        "category": "road_running_shoes",
+        "time_spent_seconds": 202,
+        "added_to_cart": false,
+        "revisited": true,
+        "last_viewed": "2026-06-16"
+      },
+      {
+        "product_id": "PROD_044",
+        "category": "running_apparel_top",
+        "time_spent_seconds": 51,
+        "added_to_cart": true,
+        "revisited": false,
+        "last_viewed": "2026-06-07"
+      }
+    ],
+    "search_queries": [
+      "trail shoes",
+      "10k training",
+      "compression sleeves"
+    ],
+    "preferred_categories": [
+      "trail_running_shoes",
+      "training_apparel",
+      "road_running_shoes"
+    ]
+  },
+  {
+    "user_id": "USR_040",
+    "purchase_history": [
+      {
+        "product_id": "PROD_020",
+        "product_name": "Nike Juniper Trail 3",
+        "category": "trail_running_shoes",
+        "price_inr": 14795,
+        "purchase_date": "2026-03-02",
+        "is_full_price": true
+      },
+      {
+        "product_id": "PROD_058",
+        "product_name": "Nike Pro 365 Tight",
+        "category": "training_apparel",
+        "price_inr": 2795,
+        "purchase_date": "2026-04-23",
+        "is_full_price": true
+      }
+    ],
+    "browse_history": [
+      {
+        "product_id": "PROD_008",
+        "category": "road_running_shoes",
+        "time_spent_seconds": 57,
+        "added_to_cart": false,
+        "revisited": true,
+        "last_viewed": "2026-06-03"
+      },
+      {
+        "product_id": "PROD_042",
+        "category": "running_apparel_top",
+        "time_spent_seconds": 76,
+        "added_to_cart": true,
+        "revisited": false,
+        "last_viewed": "2026-06-19"
+      }
+    ],
+    "search_queries": [
+      "trail shoes",
+      "10k training",
+      "compression sleeves"
+    ],
+    "preferred_categories": [
+      "trail_running_shoes",
+      "training_apparel",
+      "road_running_shoes"
+    ]
+  },
+  {
+    "user_id": "USR_041",
+    "purchase_history": [],
+    "browse_history": [],
+    "search_queries": [
+      "gym wear"
+    ],
+    "preferred_categories": [
+      "road_running_shoes"
+    ]
+  },
+  {
+    "user_id": "USR_042",
+    "purchase_history": [],
+    "browse_history": [
+      {
+        "product_id": "PROD_007",
+        "category": "road_running_shoes",
+        "time_spent_seconds": 115,
+        "added_to_cart": false,
+        "revisited": false,
+        "last_viewed": "2026-06-17"
+      }
+    ],
+    "search_queries": [
+      "running shoes"
+    ],
+    "preferred_categories": [
+      "running_apparel_top"
+    ]
+  },
+  {
+    "user_id": "USR_043",
+    "purchase_history": [],
+    "browse_history": [],
+    "search_queries": [
+      "gym wear"
+    ],
+    "preferred_categories": [
+      "trail_running_shoes"
+    ]
+  },
+  {
+    "user_id": "USR_044",
+    "purchase_history": [],
+    "browse_history": [
+      {
+        "product_id": "PROD_015",
+        "category": "road_running_shoes",
+        "time_spent_seconds": 202,
+        "added_to_cart": false,
+        "revisited": false,
+        "last_viewed": "2026-06-21"
+      }
+    ],
+    "search_queries": [],
+    "preferred_categories": [
+      "training_shoes"
+    ]
+  },
+  {
+    "user_id": "USR_045",
+    "purchase_history": [],
+    "browse_history": [],
+    "search_queries": [
+      "running shoes"
+    ],
+    "preferred_categories": [
+      "road_running_shoes"
+    ]
+  },
+  {
+    "user_id": "USR_046",
+    "purchase_history": [],
+    "browse_history": [
+      {
+        "product_id": "PROD_014",
+        "category": "road_running_shoes",
+        "time_spent_seconds": 198,
+        "added_to_cart": false,
+        "revisited": false,
+        "last_viewed": "2026-06-18"
+      }
+    ],
+    "search_queries": [
+      "running shoes"
+    ],
+    "preferred_categories": [
+      "accessories"
+    ]
+  },
+  {
+    "user_id": "USR_047",
+    "purchase_history": [],
+    "browse_history": [],
+    "search_queries": [
+      "gym wear"
+    ],
+    "preferred_categories": [
+      "running_apparel_bottom"
+    ]
+  },
+  {
+    "user_id": "USR_048",
+    "purchase_history": [],
+    "browse_history": [
+      {
+        "product_id": "PROD_002",
+        "category": "road_running_shoes",
+        "time_spent_seconds": 85,
+        "added_to_cart": false,
+        "revisited": false,
+        "last_viewed": "2026-06-21"
+      }
+    ],
+    "search_queries": [
+      "running shoes"
+    ],
+    "preferred_categories": [
+      "accessories"
+    ]
+  },
+  {
+    "user_id": "USR_049",
+    "purchase_history": [],
+    "browse_history": [
+      {
+        "product_id": "PROD_012",
+        "category": "road_running_shoes",
+        "time_spent_seconds": 155,
+        "added_to_cart": false,
+        "revisited": false,
+        "last_viewed": "2026-06-17"
+      }
+    ],
+    "search_queries": [
+      "gym wear"
+    ],
+    "preferred_categories": [
+      "road_running_shoes"
+    ]
+  },
+  {
+    "user_id": "USR_050",
+    "purchase_history": [],
+    "browse_history": [],
+    "search_queries": [
+      "running shoes"
+    ],
+    "preferred_categories": [
+      "training_shoes"
+    ]
+  }
+]

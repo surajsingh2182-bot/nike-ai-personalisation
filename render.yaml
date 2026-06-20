@@ -1,0 +1,13 @@
+# Render Blueprint — deploys the FastAPI backend on the free tier.
+# In Render: New + → "Blueprint" → connect this repo → it reads this file.
+# (You can also configure the same settings manually as a Web Service.)
+services:
+  - type: web
+    name: nike-ai-backend
+    runtime: python
+    rootDir: backend
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    # Render injects $PORT — bind to it, not a hardcoded port.
+    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /api/health

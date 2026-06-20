@@ -1,0 +1,2406 @@
+[
+  {
+    "product_id": "PROD_001",
+    "name": "Nike Pegasus 41",
+    "category": "road_running_shoes",
+    "subcategory": "neutral_cushion",
+    "price_inr": 19495,
+    "gender": "unisex",
+    "suitable_surfaces": [
+      "road",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": "PROD_002",
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Pegasus+41",
+    "tags": [
+      "cushioned",
+      "daily_trainer",
+      "high_mileage",
+      "road"
+    ],
+    "avg_rating": 4.7,
+    "is_new": true,
+    "description": "The everyday road runner's workhorse, now with a smoother, more responsive ride. Built for high-mileage training."
+  },
+  {
+    "product_id": "PROD_002",
+    "name": "Nike Pegasus 40",
+    "category": "road_running_shoes",
+    "subcategory": "neutral_cushion",
+    "price_inr": 11295,
+    "gender": "unisex",
+    "suitable_surfaces": [
+      "road",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Pegasus+40",
+    "tags": [],
+    "avg_rating": 4.5,
+    "is_new": true,
+    "description": "Responsive cushioning built for logging road miles day after day."
+  },
+  {
+    "product_id": "PROD_003",
+    "name": "Nike Vomero 17",
+    "category": "road_running_shoes",
+    "subcategory": "stability",
+    "price_inr": 10495,
+    "gender": "unisex",
+    "suitable_surfaces": [
+      "road",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Vomero+17",
+    "tags": [],
+    "avg_rating": 4.5,
+    "is_new": true,
+    "description": "Responsive cushioning built for logging road miles day after day."
+  },
+  {
+    "product_id": "PROD_004",
+    "name": "Nike Structure 25",
+    "category": "road_running_shoes",
+    "subcategory": "daily_trainer",
+    "price_inr": 12295,
+    "gender": "unisex",
+    "suitable_surfaces": [
+      "road",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Structure+25",
+    "tags": [],
+    "avg_rating": 4.4,
+    "is_new": true,
+    "description": "Responsive cushioning built for logging road miles day after day."
+  },
+  {
+    "product_id": "PROD_005",
+    "name": "Nike Invincible 3",
+    "category": "road_running_shoes",
+    "subcategory": "stability",
+    "price_inr": 9095,
+    "gender": "women",
+    "suitable_surfaces": [
+      "road",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Invincible+3",
+    "tags": [],
+    "avg_rating": 4.3,
+    "is_new": true,
+    "description": "Responsive cushioning built for logging road miles day after day."
+  },
+  {
+    "product_id": "PROD_006",
+    "name": "Nike InfinityRN 4",
+    "category": "road_running_shoes",
+    "subcategory": "race_day",
+    "price_inr": 21495,
+    "gender": "unisex",
+    "suitable_surfaces": [
+      "road",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+InfinityRN+4",
+    "tags": [],
+    "avg_rating": 4.1,
+    "is_new": true,
+    "description": "Responsive cushioning built for logging road miles day after day."
+  },
+  {
+    "product_id": "PROD_007",
+    "name": "Nike Vaporfly 3",
+    "category": "road_running_shoes",
+    "subcategory": "race_day",
+    "price_inr": 22895,
+    "gender": "men",
+    "suitable_surfaces": [
+      "road",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon"
+    ],
+    "fitness_level": [
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Vaporfly+3",
+    "tags": [],
+    "avg_rating": 4.7,
+    "is_new": false,
+    "description": "Responsive cushioning built for logging road miles day after day."
+  },
+  {
+    "product_id": "PROD_008",
+    "name": "Nike Alphafly 3",
+    "category": "road_running_shoes",
+    "subcategory": "neutral_cushion",
+    "price_inr": 17795,
+    "gender": "women",
+    "suitable_surfaces": [
+      "road",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon"
+    ],
+    "fitness_level": [
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Alphafly+3",
+    "tags": [],
+    "avg_rating": 4.1,
+    "is_new": true,
+    "description": "Responsive cushioning built for logging road miles day after day."
+  },
+  {
+    "product_id": "PROD_009",
+    "name": "Nike Zoom Fly 5",
+    "category": "road_running_shoes",
+    "subcategory": "race_day",
+    "price_inr": 19295,
+    "gender": "unisex",
+    "suitable_surfaces": [
+      "road",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon"
+    ],
+    "fitness_level": [
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Zoom+Fly+5",
+    "tags": [],
+    "avg_rating": 4.6,
+    "is_new": true,
+    "description": "Responsive cushioning built for logging road miles day after day."
+  },
+  {
+    "product_id": "PROD_010",
+    "name": "Nike Pegasus Plus",
+    "category": "road_running_shoes",
+    "subcategory": "race_day",
+    "price_inr": 12695,
+    "gender": "unisex",
+    "suitable_surfaces": [
+      "road",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Pegasus+Plus",
+    "tags": [],
+    "avg_rating": 4.8,
+    "is_new": false,
+    "description": "Responsive cushioning built for logging road miles day after day."
+  },
+  {
+    "product_id": "PROD_011",
+    "name": "Nike Rival Fly 3",
+    "category": "road_running_shoes",
+    "subcategory": "race_day",
+    "price_inr": 15195,
+    "gender": "women",
+    "suitable_surfaces": [
+      "road",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Rival+Fly+3",
+    "tags": [],
+    "avg_rating": 4.6,
+    "is_new": false,
+    "description": "Responsive cushioning built for logging road miles day after day."
+  },
+  {
+    "product_id": "PROD_012",
+    "name": "Nike Revolution 7",
+    "category": "road_running_shoes",
+    "subcategory": "race_day",
+    "price_inr": 15095,
+    "gender": "unisex",
+    "suitable_surfaces": [
+      "road",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Revolution+7",
+    "tags": [],
+    "avg_rating": 4.6,
+    "is_new": false,
+    "description": "Responsive cushioning built for logging road miles day after day."
+  },
+  {
+    "product_id": "PROD_013",
+    "name": "Nike Downshifter 13",
+    "category": "road_running_shoes",
+    "subcategory": "neutral_cushion",
+    "price_inr": 20195,
+    "gender": "unisex",
+    "suitable_surfaces": [
+      "road",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Downshifter+13",
+    "tags": [],
+    "avg_rating": 4.5,
+    "is_new": true,
+    "description": "Responsive cushioning built for logging road miles day after day."
+  },
+  {
+    "product_id": "PROD_014",
+    "name": "Nike Winflo 11",
+    "category": "road_running_shoes",
+    "subcategory": "daily_trainer",
+    "price_inr": 16595,
+    "gender": "men",
+    "suitable_surfaces": [
+      "road",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Winflo+11",
+    "tags": [],
+    "avg_rating": 4.9,
+    "is_new": false,
+    "description": "Responsive cushioning built for logging road miles day after day."
+  },
+  {
+    "product_id": "PROD_015",
+    "name": "Nike Pegasus Turbo Next",
+    "category": "road_running_shoes",
+    "subcategory": "stability",
+    "price_inr": 18095,
+    "gender": "men",
+    "suitable_surfaces": [
+      "road",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Pegasus+Turbo+Next",
+    "tags": [],
+    "avg_rating": 4.8,
+    "is_new": false,
+    "description": "Responsive cushioning built for logging road miles day after day."
+  },
+  {
+    "product_id": "PROD_016",
+    "name": "Nike Wildhorse 8",
+    "category": "trail_running_shoes",
+    "subcategory": "technical_trail",
+    "price_inr": 11895,
+    "gender": "men",
+    "suitable_surfaces": [
+      "trail"
+    ],
+    "suitable_goals": [
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Wildhorse+8",
+    "tags": [],
+    "avg_rating": 4.4,
+    "is_new": true,
+    "description": "Rugged grip and protection for technical, off-road terrain."
+  },
+  {
+    "product_id": "PROD_017",
+    "name": "Nike Pegasus Trail 5",
+    "category": "trail_running_shoes",
+    "subcategory": "ultra",
+    "price_inr": 14595,
+    "gender": "men",
+    "suitable_surfaces": [
+      "trail"
+    ],
+    "suitable_goals": [
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Pegasus+Trail+5",
+    "tags": [],
+    "avg_rating": 4.2,
+    "is_new": false,
+    "description": "Rugged grip and protection for technical, off-road terrain."
+  },
+  {
+    "product_id": "PROD_018",
+    "name": "Nike Terra Kiger 9",
+    "category": "trail_running_shoes",
+    "subcategory": "door_to_trail",
+    "price_inr": 15295,
+    "gender": "unisex",
+    "suitable_surfaces": [
+      "trail"
+    ],
+    "suitable_goals": [
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Terra+Kiger+9",
+    "tags": [],
+    "avg_rating": 4.2,
+    "is_new": true,
+    "description": "Rugged grip and protection for technical, off-road terrain."
+  },
+  {
+    "product_id": "PROD_019",
+    "name": "Nike Kiger 10",
+    "category": "trail_running_shoes",
+    "subcategory": "ultra",
+    "price_inr": 14595,
+    "gender": "men",
+    "suitable_surfaces": [
+      "trail"
+    ],
+    "suitable_goals": [
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Kiger+10",
+    "tags": [],
+    "avg_rating": 4.7,
+    "is_new": false,
+    "description": "Rugged grip and protection for technical, off-road terrain."
+  },
+  {
+    "product_id": "PROD_020",
+    "name": "Nike Juniper Trail 3",
+    "category": "trail_running_shoes",
+    "subcategory": "door_to_trail",
+    "price_inr": 14795,
+    "gender": "men",
+    "suitable_surfaces": [
+      "trail"
+    ],
+    "suitable_goals": [
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Juniper+Trail+3",
+    "tags": [],
+    "avg_rating": 4.2,
+    "is_new": false,
+    "description": "Rugged grip and protection for technical, off-road terrain."
+  },
+  {
+    "product_id": "PROD_021",
+    "name": "Nike Zegama 2",
+    "category": "trail_running_shoes",
+    "subcategory": "door_to_trail",
+    "price_inr": 14195,
+    "gender": "unisex",
+    "suitable_surfaces": [
+      "trail"
+    ],
+    "suitable_goals": [
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Zegama+2",
+    "tags": [],
+    "avg_rating": 4.7,
+    "is_new": false,
+    "description": "Rugged grip and protection for technical, off-road terrain."
+  },
+  {
+    "product_id": "PROD_022",
+    "name": "Nike Wildhorse 9",
+    "category": "trail_running_shoes",
+    "subcategory": "ultra",
+    "price_inr": 11195,
+    "gender": "unisex",
+    "suitable_surfaces": [
+      "trail"
+    ],
+    "suitable_goals": [
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Wildhorse+9",
+    "tags": [],
+    "avg_rating": 4.7,
+    "is_new": false,
+    "description": "Rugged grip and protection for technical, off-road terrain."
+  },
+  {
+    "product_id": "PROD_023",
+    "name": "Nike Ultrafly Trail",
+    "category": "trail_running_shoes",
+    "subcategory": "door_to_trail",
+    "price_inr": 10495,
+    "gender": "women",
+    "suitable_surfaces": [
+      "trail"
+    ],
+    "suitable_goals": [
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Ultrafly+Trail",
+    "tags": [],
+    "avg_rating": 4.5,
+    "is_new": false,
+    "description": "Rugged grip and protection for technical, off-road terrain."
+  },
+  {
+    "product_id": "PROD_024",
+    "name": "Nike Terrascout GTX",
+    "category": "trail_running_shoes",
+    "subcategory": "ultra",
+    "price_inr": 12095,
+    "gender": "unisex",
+    "suitable_surfaces": [
+      "trail"
+    ],
+    "suitable_goals": [
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Terrascout+GTX",
+    "tags": [],
+    "avg_rating": 4.6,
+    "is_new": true,
+    "description": "Rugged grip and protection for technical, off-road terrain."
+  },
+  {
+    "product_id": "PROD_025",
+    "name": "Nike Trail Roam",
+    "category": "trail_running_shoes",
+    "subcategory": "door_to_trail",
+    "price_inr": 14395,
+    "gender": "men",
+    "suitable_surfaces": [
+      "trail"
+    ],
+    "suitable_goals": [
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Trail+Roam",
+    "tags": [],
+    "avg_rating": 4.1,
+    "is_new": false,
+    "description": "Rugged grip and protection for technical, off-road terrain."
+  },
+  {
+    "product_id": "PROD_026",
+    "name": "Nike Metcon 9",
+    "category": "training_shoes",
+    "subcategory": "cross_training",
+    "price_inr": 11695,
+    "gender": "men",
+    "suitable_surfaces": [
+      "treadmill"
+    ],
+    "suitable_goals": [
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Metcon+9",
+    "tags": [],
+    "avg_rating": 4.9,
+    "is_new": false,
+    "description": "Stable, flat platform for lifting, HIIT and gym cross-training."
+  },
+  {
+    "product_id": "PROD_027",
+    "name": "Nike Free Metcon 6",
+    "category": "training_shoes",
+    "subcategory": "cross_training",
+    "price_inr": 12195,
+    "gender": "men",
+    "suitable_surfaces": [
+      "treadmill"
+    ],
+    "suitable_goals": [
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Free+Metcon+6",
+    "tags": [],
+    "avg_rating": 4.8,
+    "is_new": false,
+    "description": "Stable, flat platform for lifting, HIIT and gym cross-training."
+  },
+  {
+    "product_id": "PROD_028",
+    "name": "Nike Air Zoom SuperRep 3",
+    "category": "training_shoes",
+    "subcategory": "cross_training",
+    "price_inr": 9595,
+    "gender": "men",
+    "suitable_surfaces": [
+      "treadmill"
+    ],
+    "suitable_goals": [
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Air+Zoom+SuperRep+3",
+    "tags": [],
+    "avg_rating": 4.7,
+    "is_new": false,
+    "description": "Stable, flat platform for lifting, HIIT and gym cross-training."
+  },
+  {
+    "product_id": "PROD_029",
+    "name": "Nike Metcon 8",
+    "category": "training_shoes",
+    "subcategory": "hiit",
+    "price_inr": 14395,
+    "gender": "unisex",
+    "suitable_surfaces": [
+      "treadmill"
+    ],
+    "suitable_goals": [
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Metcon+8",
+    "tags": [],
+    "avg_rating": 4.5,
+    "is_new": false,
+    "description": "Stable, flat platform for lifting, HIIT and gym cross-training."
+  },
+  {
+    "product_id": "PROD_030",
+    "name": "Nike MC Trainer 3",
+    "category": "training_shoes",
+    "subcategory": "lifting",
+    "price_inr": 8895,
+    "gender": "men",
+    "suitable_surfaces": [
+      "treadmill"
+    ],
+    "suitable_goals": [
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+MC+Trainer+3",
+    "tags": [],
+    "avg_rating": 4.2,
+    "is_new": true,
+    "description": "Stable, flat platform for lifting, HIIT and gym cross-training."
+  },
+  {
+    "product_id": "PROD_031",
+    "name": "Nike Renew In-Season 12",
+    "category": "training_shoes",
+    "subcategory": "cross_training",
+    "price_inr": 12595,
+    "gender": "unisex",
+    "suitable_surfaces": [
+      "treadmill"
+    ],
+    "suitable_goals": [
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Renew+In-Season+12",
+    "tags": [],
+    "avg_rating": 4.7,
+    "is_new": false,
+    "description": "Stable, flat platform for lifting, HIIT and gym cross-training."
+  },
+  {
+    "product_id": "PROD_032",
+    "name": "Nike Air Max Alpha 5",
+    "category": "training_shoes",
+    "subcategory": "hiit",
+    "price_inr": 14195,
+    "gender": "unisex",
+    "suitable_surfaces": [
+      "treadmill"
+    ],
+    "suitable_goals": [
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Air+Max+Alpha+5",
+    "tags": [],
+    "avg_rating": 4.1,
+    "is_new": false,
+    "description": "Stable, flat platform for lifting, HIIT and gym cross-training."
+  },
+  {
+    "product_id": "PROD_033",
+    "name": "Nike Legend Essential 3",
+    "category": "training_shoes",
+    "subcategory": "cross_training",
+    "price_inr": 12495,
+    "gender": "men",
+    "suitable_surfaces": [
+      "treadmill"
+    ],
+    "suitable_goals": [
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Legend+Essential+3",
+    "tags": [],
+    "avg_rating": 4.5,
+    "is_new": false,
+    "description": "Stable, flat platform for lifting, HIIT and gym cross-training."
+  },
+  {
+    "product_id": "PROD_034",
+    "name": "Nike Flex Control 4",
+    "category": "training_shoes",
+    "subcategory": "hiit",
+    "price_inr": 9695,
+    "gender": "unisex",
+    "suitable_surfaces": [
+      "treadmill"
+    ],
+    "suitable_goals": [
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Flex+Control+4",
+    "tags": [],
+    "avg_rating": 4.6,
+    "is_new": false,
+    "description": "Stable, flat platform for lifting, HIIT and gym cross-training."
+  },
+  {
+    "product_id": "PROD_035",
+    "name": "Nike SuperRep Go 3",
+    "category": "training_shoes",
+    "subcategory": "hiit",
+    "price_inr": 13495,
+    "gender": "men",
+    "suitable_surfaces": [
+      "treadmill"
+    ],
+    "suitable_goals": [
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+SuperRep+Go+3",
+    "tags": [],
+    "avg_rating": 4.4,
+    "is_new": false,
+    "description": "Stable, flat platform for lifting, HIIT and gym cross-training."
+  },
+  {
+    "product_id": "PROD_036",
+    "name": "Nike Dri-FIT Rise 365",
+    "category": "running_apparel_top",
+    "subcategory": "tee",
+    "price_inr": 2495,
+    "gender": "unisex",
+    "suitable_surfaces": [
+      "road",
+      "trail",
+      "treadmill",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Dri-FIT+Rise+365",
+    "tags": [],
+    "avg_rating": 4.1,
+    "is_new": true,
+    "description": "Sweat-wicking, breathable fabric that keeps you cool on the move."
+  },
+  {
+    "product_id": "PROD_037",
+    "name": "Nike Miler Tank",
+    "category": "running_apparel_top",
+    "subcategory": "tee",
+    "price_inr": 4295,
+    "gender": "unisex",
+    "suitable_surfaces": [
+      "road",
+      "trail",
+      "treadmill",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Miler+Tank",
+    "tags": [],
+    "avg_rating": 4.0,
+    "is_new": false,
+    "description": "Sweat-wicking, breathable fabric that keeps you cool on the move."
+  },
+  {
+    "product_id": "PROD_038",
+    "name": "Nike Trail Tee",
+    "category": "running_apparel_top",
+    "subcategory": "tee",
+    "price_inr": 2195,
+    "gender": "unisex",
+    "suitable_surfaces": [
+      "road",
+      "trail",
+      "treadmill",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Trail+Tee",
+    "tags": [],
+    "avg_rating": 4.8,
+    "is_new": false,
+    "description": "Sweat-wicking, breathable fabric that keeps you cool on the move."
+  },
+  {
+    "product_id": "PROD_039",
+    "name": "Nike Dri-FIT ADV Techknit",
+    "category": "running_apparel_top",
+    "subcategory": "tee",
+    "price_inr": 2295,
+    "gender": "men",
+    "suitable_surfaces": [
+      "road",
+      "trail",
+      "treadmill",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Dri-FIT+ADV+Techknit",
+    "tags": [],
+    "avg_rating": 4.6,
+    "is_new": true,
+    "description": "Sweat-wicking, breathable fabric that keeps you cool on the move."
+  },
+  {
+    "product_id": "PROD_040",
+    "name": "Nike Miler Singlet",
+    "category": "running_apparel_top",
+    "subcategory": "midlayer",
+    "price_inr": 2495,
+    "gender": "unisex",
+    "suitable_surfaces": [
+      "road",
+      "trail",
+      "treadmill",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Miler+Singlet",
+    "tags": [],
+    "avg_rating": 4.7,
+    "is_new": false,
+    "description": "Sweat-wicking, breathable fabric that keeps you cool on the move."
+  },
+  {
+    "product_id": "PROD_041",
+    "name": "Nike Pacer Half-Zip",
+    "category": "running_apparel_top",
+    "subcategory": "tank",
+    "price_inr": 2795,
+    "gender": "unisex",
+    "suitable_surfaces": [
+      "road",
+      "trail",
+      "treadmill",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Pacer+Half-Zip",
+    "tags": [],
+    "avg_rating": 4.6,
+    "is_new": false,
+    "description": "Sweat-wicking, breathable fabric that keeps you cool on the move."
+  },
+  {
+    "product_id": "PROD_042",
+    "name": "Nike Element Hoodie",
+    "category": "running_apparel_top",
+    "subcategory": "midlayer",
+    "price_inr": 3695,
+    "gender": "unisex",
+    "suitable_surfaces": [
+      "road",
+      "trail",
+      "treadmill",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Element+Hoodie",
+    "tags": [],
+    "avg_rating": 4.6,
+    "is_new": false,
+    "description": "Sweat-wicking, breathable fabric that keeps you cool on the move."
+  },
+  {
+    "product_id": "PROD_043",
+    "name": "Nike Dri-FIT UV Miler",
+    "category": "running_apparel_top",
+    "subcategory": "tank",
+    "price_inr": 2395,
+    "gender": "women",
+    "suitable_surfaces": [
+      "road",
+      "trail",
+      "treadmill",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Dri-FIT+UV+Miler",
+    "tags": [],
+    "avg_rating": 4.7,
+    "is_new": false,
+    "description": "Sweat-wicking, breathable fabric that keeps you cool on the move."
+  },
+  {
+    "product_id": "PROD_044",
+    "name": "Nike Run Division Tee",
+    "category": "running_apparel_top",
+    "subcategory": "tee",
+    "price_inr": 2395,
+    "gender": "unisex",
+    "suitable_surfaces": [
+      "road",
+      "trail",
+      "treadmill",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Run+Division+Tee",
+    "tags": [],
+    "avg_rating": 4.2,
+    "is_new": false,
+    "description": "Sweat-wicking, breathable fabric that keeps you cool on the move."
+  },
+  {
+    "product_id": "PROD_045",
+    "name": "Nike Fast Tank",
+    "category": "running_apparel_top",
+    "subcategory": "tee",
+    "price_inr": 3695,
+    "gender": "men",
+    "suitable_surfaces": [
+      "road",
+      "trail",
+      "treadmill",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Fast+Tank",
+    "tags": [],
+    "avg_rating": 4.4,
+    "is_new": false,
+    "description": "Sweat-wicking, breathable fabric that keeps you cool on the move."
+  },
+  {
+    "product_id": "PROD_046",
+    "name": "Nike Challenger Shorts 7in",
+    "category": "running_apparel_bottom",
+    "subcategory": "tights",
+    "price_inr": 2795,
+    "gender": "unisex",
+    "suitable_surfaces": [
+      "road",
+      "trail",
+      "treadmill",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Challenger+Shorts+7in",
+    "tags": [],
+    "avg_rating": 4.0,
+    "is_new": false,
+    "description": "Lightweight, flexible coverage with a secure, run-ready fit."
+  },
+  {
+    "product_id": "PROD_047",
+    "name": "Nike Trail Shorts",
+    "category": "running_apparel_bottom",
+    "subcategory": "shorts",
+    "price_inr": 5895,
+    "gender": "unisex",
+    "suitable_surfaces": [
+      "road",
+      "trail",
+      "treadmill",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Trail+Shorts",
+    "tags": [],
+    "avg_rating": 4.8,
+    "is_new": false,
+    "description": "Lightweight, flexible coverage with a secure, run-ready fit."
+  },
+  {
+    "product_id": "PROD_048",
+    "name": "Nike Epic Luxe Tights",
+    "category": "running_apparel_bottom",
+    "subcategory": "tights",
+    "price_inr": 3195,
+    "gender": "women",
+    "suitable_surfaces": [
+      "road",
+      "trail",
+      "treadmill",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Epic+Luxe+Tights",
+    "tags": [],
+    "avg_rating": 4.4,
+    "is_new": false,
+    "description": "Lightweight, flexible coverage with a secure, run-ready fit."
+  },
+  {
+    "product_id": "PROD_049",
+    "name": "Nike Stride Shorts",
+    "category": "running_apparel_bottom",
+    "subcategory": "shorts",
+    "price_inr": 2695,
+    "gender": "women",
+    "suitable_surfaces": [
+      "road",
+      "trail",
+      "treadmill",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Stride+Shorts",
+    "tags": [],
+    "avg_rating": 4.0,
+    "is_new": false,
+    "description": "Lightweight, flexible coverage with a secure, run-ready fit."
+  },
+  {
+    "product_id": "PROD_050",
+    "name": "Nike Flex Stride 5in",
+    "category": "running_apparel_bottom",
+    "subcategory": "tights",
+    "price_inr": 5695,
+    "gender": "men",
+    "suitable_surfaces": [
+      "road",
+      "trail",
+      "treadmill",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Flex+Stride+5in",
+    "tags": [],
+    "avg_rating": 4.4,
+    "is_new": false,
+    "description": "Lightweight, flexible coverage with a secure, run-ready fit."
+  },
+  {
+    "product_id": "PROD_051",
+    "name": "Nike Fast Tights",
+    "category": "running_apparel_bottom",
+    "subcategory": "pants",
+    "price_inr": 5695,
+    "gender": "women",
+    "suitable_surfaces": [
+      "road",
+      "trail",
+      "treadmill",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Fast+Tights",
+    "tags": [],
+    "avg_rating": 4.1,
+    "is_new": true,
+    "description": "Lightweight, flexible coverage with a secure, run-ready fit."
+  },
+  {
+    "product_id": "PROD_052",
+    "name": "Nike Phenom Pants",
+    "category": "running_apparel_bottom",
+    "subcategory": "pants",
+    "price_inr": 2695,
+    "gender": "unisex",
+    "suitable_surfaces": [
+      "road",
+      "trail",
+      "treadmill",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Phenom+Pants",
+    "tags": [],
+    "avg_rating": 4.7,
+    "is_new": true,
+    "description": "Lightweight, flexible coverage with a secure, run-ready fit."
+  },
+  {
+    "product_id": "PROD_053",
+    "name": "Nike Run Division Tights",
+    "category": "running_apparel_bottom",
+    "subcategory": "tights",
+    "price_inr": 4895,
+    "gender": "unisex",
+    "suitable_surfaces": [
+      "road",
+      "trail",
+      "treadmill",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Run+Division+Tights",
+    "tags": [],
+    "avg_rating": 4.1,
+    "is_new": false,
+    "description": "Lightweight, flexible coverage with a secure, run-ready fit."
+  },
+  {
+    "product_id": "PROD_054",
+    "name": "Nike AeroSwift Shorts",
+    "category": "running_apparel_bottom",
+    "subcategory": "shorts",
+    "price_inr": 5995,
+    "gender": "unisex",
+    "suitable_surfaces": [
+      "road",
+      "trail",
+      "treadmill",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+AeroSwift+Shorts",
+    "tags": [],
+    "avg_rating": 4.5,
+    "is_new": false,
+    "description": "Lightweight, flexible coverage with a secure, run-ready fit."
+  },
+  {
+    "product_id": "PROD_055",
+    "name": "Nike Trail Tights",
+    "category": "running_apparel_bottom",
+    "subcategory": "tights",
+    "price_inr": 3495,
+    "gender": "unisex",
+    "suitable_surfaces": [
+      "road",
+      "trail",
+      "treadmill",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Trail+Tights",
+    "tags": [],
+    "avg_rating": 4.8,
+    "is_new": false,
+    "description": "Lightweight, flexible coverage with a secure, run-ready fit."
+  },
+  {
+    "product_id": "PROD_056",
+    "name": "Nike Flex Rep Shorts",
+    "category": "training_apparel",
+    "subcategory": "shorts",
+    "price_inr": 4195,
+    "gender": "unisex",
+    "suitable_surfaces": [
+      "road",
+      "trail",
+      "treadmill",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Flex+Rep+Shorts",
+    "tags": [],
+    "avg_rating": 4.4,
+    "is_new": false,
+    "description": "Durable, stretchy material that moves with you through every rep."
+  },
+  {
+    "product_id": "PROD_057",
+    "name": "Nike Dri-FIT Training Tee",
+    "category": "training_apparel",
+    "subcategory": "tights",
+    "price_inr": 3895,
+    "gender": "men",
+    "suitable_surfaces": [
+      "road",
+      "trail",
+      "treadmill",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Dri-FIT+Training+Tee",
+    "tags": [],
+    "avg_rating": 4.2,
+    "is_new": false,
+    "description": "Durable, stretchy material that moves with you through every rep."
+  },
+  {
+    "product_id": "PROD_058",
+    "name": "Nike Pro 365 Tight",
+    "category": "training_apparel",
+    "subcategory": "tights",
+    "price_inr": 2795,
+    "gender": "women",
+    "suitable_surfaces": [
+      "road",
+      "trail",
+      "treadmill",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Pro+365+Tight",
+    "tags": [],
+    "avg_rating": 4.1,
+    "is_new": false,
+    "description": "Durable, stretchy material that moves with you through every rep."
+  },
+  {
+    "product_id": "PROD_059",
+    "name": "Nike Unlimited Shorts",
+    "category": "training_apparel",
+    "subcategory": "tights",
+    "price_inr": 3695,
+    "gender": "unisex",
+    "suitable_surfaces": [
+      "road",
+      "trail",
+      "treadmill",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Unlimited+Shorts",
+    "tags": [],
+    "avg_rating": 4.0,
+    "is_new": false,
+    "description": "Durable, stretchy material that moves with you through every rep."
+  },
+  {
+    "product_id": "PROD_060",
+    "name": "Nike Form Pants",
+    "category": "training_apparel",
+    "subcategory": "shorts",
+    "price_inr": 4095,
+    "gender": "unisex",
+    "suitable_surfaces": [
+      "road",
+      "trail",
+      "treadmill",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Form+Pants",
+    "tags": [],
+    "avg_rating": 4.5,
+    "is_new": false,
+    "description": "Durable, stretchy material that moves with you through every rep."
+  },
+  {
+    "product_id": "PROD_061",
+    "name": "Nike Pro Dri-FIT Tank",
+    "category": "training_apparel",
+    "subcategory": "tights",
+    "price_inr": 2295,
+    "gender": "unisex",
+    "suitable_surfaces": [
+      "road",
+      "trail",
+      "treadmill",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Pro+Dri-FIT+Tank",
+    "tags": [],
+    "avg_rating": 4.8,
+    "is_new": false,
+    "description": "Durable, stretchy material that moves with you through every rep."
+  },
+  {
+    "product_id": "PROD_062",
+    "name": "Nike Totality Shorts",
+    "category": "training_apparel",
+    "subcategory": "midlayer",
+    "price_inr": 2395,
+    "gender": "men",
+    "suitable_surfaces": [
+      "road",
+      "trail",
+      "treadmill",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Totality+Shorts",
+    "tags": [],
+    "avg_rating": 4.6,
+    "is_new": false,
+    "description": "Durable, stretchy material that moves with you through every rep."
+  },
+  {
+    "product_id": "PROD_063",
+    "name": "Nike ADV A.P.S. Top",
+    "category": "training_apparel",
+    "subcategory": "shorts",
+    "price_inr": 4495,
+    "gender": "men",
+    "suitable_surfaces": [
+      "road",
+      "trail",
+      "treadmill",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+ADV+A.P.S.+Top",
+    "tags": [],
+    "avg_rating": 4.8,
+    "is_new": true,
+    "description": "Durable, stretchy material that moves with you through every rep."
+  },
+  {
+    "product_id": "PROD_064",
+    "name": "Nike Form Hoodie",
+    "category": "training_apparel",
+    "subcategory": "tights",
+    "price_inr": 2295,
+    "gender": "unisex",
+    "suitable_surfaces": [
+      "road",
+      "trail",
+      "treadmill",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Form+Hoodie",
+    "tags": [],
+    "avg_rating": 4.8,
+    "is_new": false,
+    "description": "Durable, stretchy material that moves with you through every rep."
+  },
+  {
+    "product_id": "PROD_065",
+    "name": "Nike Pro Combat Tee",
+    "category": "training_apparel",
+    "subcategory": "tights",
+    "price_inr": 2395,
+    "gender": "men",
+    "suitable_surfaces": [
+      "road",
+      "trail",
+      "treadmill",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Pro+Combat+Tee",
+    "tags": [],
+    "avg_rating": 4.5,
+    "is_new": false,
+    "description": "Durable, stretchy material that moves with you through every rep."
+  },
+  {
+    "product_id": "PROD_066",
+    "name": "Nike Spark Cushioned Socks",
+    "category": "accessories",
+    "subcategory": "hydration",
+    "price_inr": 2495,
+    "gender": "women",
+    "suitable_surfaces": [
+      "road",
+      "trail",
+      "treadmill",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Spark+Cushioned+Socks",
+    "tags": [],
+    "avg_rating": 4.2,
+    "is_new": false,
+    "description": "A small upgrade that makes a real difference on training day."
+  },
+  {
+    "product_id": "PROD_067",
+    "name": "Nike Running Arm Sleeves",
+    "category": "accessories",
+    "subcategory": "socks",
+    "price_inr": 1195,
+    "gender": "women",
+    "suitable_surfaces": [
+      "road",
+      "trail",
+      "treadmill",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Running+Arm+Sleeves",
+    "tags": [],
+    "avg_rating": 4.7,
+    "is_new": true,
+    "description": "A small upgrade that makes a real difference on training day."
+  },
+  {
+    "product_id": "PROD_068",
+    "name": "Nike Hydration Race Vest",
+    "category": "accessories",
+    "subcategory": "headwear",
+    "price_inr": 3495,
+    "gender": "men",
+    "suitable_surfaces": [
+      "road",
+      "trail",
+      "treadmill",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Hydration+Race+Vest",
+    "tags": [],
+    "avg_rating": 4.1,
+    "is_new": false,
+    "description": "A small upgrade that makes a real difference on training day."
+  },
+  {
+    "product_id": "PROD_069",
+    "name": "Nike Featherlight Cap",
+    "category": "accessories",
+    "subcategory": "socks",
+    "price_inr": 4295,
+    "gender": "unisex",
+    "suitable_surfaces": [
+      "road",
+      "trail",
+      "treadmill",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Featherlight+Cap",
+    "tags": [],
+    "avg_rating": 4.1,
+    "is_new": false,
+    "description": "A small upgrade that makes a real difference on training day."
+  },
+  {
+    "product_id": "PROD_070",
+    "name": "Nike Lightweight Running Gloves",
+    "category": "accessories",
+    "subcategory": "socks",
+    "price_inr": 1995,
+    "gender": "men",
+    "suitable_surfaces": [
+      "road",
+      "trail",
+      "treadmill",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Lightweight+Running+Gloves",
+    "tags": [],
+    "avg_rating": 4.5,
+    "is_new": true,
+    "description": "A small upgrade that makes a real difference on training day."
+  },
+  {
+    "product_id": "PROD_071",
+    "name": "Nike Slim Waist Pack",
+    "category": "accessories",
+    "subcategory": "socks",
+    "price_inr": 1795,
+    "gender": "men",
+    "suitable_surfaces": [
+      "road",
+      "trail",
+      "treadmill",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Slim+Waist+Pack",
+    "tags": [],
+    "avg_rating": 4.3,
+    "is_new": false,
+    "description": "A small upgrade that makes a real difference on training day."
+  },
+  {
+    "product_id": "PROD_072",
+    "name": "Nike Cushioned Crew Socks",
+    "category": "accessories",
+    "subcategory": "hydration",
+    "price_inr": 1095,
+    "gender": "unisex",
+    "suitable_surfaces": [
+      "road",
+      "trail",
+      "treadmill",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Cushioned+Crew+Socks",
+    "tags": [],
+    "avg_rating": 4.6,
+    "is_new": false,
+    "description": "A small upgrade that makes a real difference on training day."
+  },
+  {
+    "product_id": "PROD_073",
+    "name": "Nike Reflective Headband",
+    "category": "accessories",
+    "subcategory": "sleeves",
+    "price_inr": 3695,
+    "gender": "unisex",
+    "suitable_surfaces": [
+      "road",
+      "trail",
+      "treadmill",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Reflective+Headband",
+    "tags": [],
+    "avg_rating": 4.8,
+    "is_new": true,
+    "description": "A small upgrade that makes a real difference on training day."
+  },
+  {
+    "product_id": "PROD_074",
+    "name": "Nike Trail Gaiters",
+    "category": "accessories",
+    "subcategory": "headwear",
+    "price_inr": 2095,
+    "gender": "women",
+    "suitable_surfaces": [
+      "road",
+      "trail",
+      "treadmill",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Trail+Gaiters",
+    "tags": [],
+    "avg_rating": 4.0,
+    "is_new": false,
+    "description": "A small upgrade that makes a real difference on training day."
+  },
+  {
+    "product_id": "PROD_075",
+    "name": "Nike Soft Flask 500ml",
+    "category": "accessories",
+    "subcategory": "sleeves",
+    "price_inr": 3495,
+    "gender": "unisex",
+    "suitable_surfaces": [
+      "road",
+      "trail",
+      "treadmill",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Soft+Flask+500ml",
+    "tags": [],
+    "avg_rating": 4.2,
+    "is_new": false,
+    "description": "A small upgrade that makes a real difference on training day."
+  },
+  {
+    "product_id": "PROD_076",
+    "name": "Nike Dri-FIT Headband",
+    "category": "accessories",
+    "subcategory": "sleeves",
+    "price_inr": 1695,
+    "gender": "unisex",
+    "suitable_surfaces": [
+      "road",
+      "trail",
+      "treadmill",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Dri-FIT+Headband",
+    "tags": [],
+    "avg_rating": 4.8,
+    "is_new": true,
+    "description": "A small upgrade that makes a real difference on training day."
+  },
+  {
+    "product_id": "PROD_077",
+    "name": "Nike Calf Compression Sleeves",
+    "category": "accessories",
+    "subcategory": "hydration",
+    "price_inr": 4595,
+    "gender": "men",
+    "suitable_surfaces": [
+      "road",
+      "trail",
+      "treadmill",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Calf+Compression+Sleeves",
+    "tags": [],
+    "avg_rating": 4.7,
+    "is_new": false,
+    "description": "A small upgrade that makes a real difference on training day."
+  },
+  {
+    "product_id": "PROD_078",
+    "name": "Nike Running Visor",
+    "category": "accessories",
+    "subcategory": "socks",
+    "price_inr": 2595,
+    "gender": "unisex",
+    "suitable_surfaces": [
+      "road",
+      "trail",
+      "treadmill",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Running+Visor",
+    "tags": [],
+    "avg_rating": 4.4,
+    "is_new": true,
+    "description": "A small upgrade that makes a real difference on training day."
+  },
+  {
+    "product_id": "PROD_079",
+    "name": "Nike Trail Beanie",
+    "category": "accessories",
+    "subcategory": "hydration",
+    "price_inr": 1395,
+    "gender": "men",
+    "suitable_surfaces": [
+      "road",
+      "trail",
+      "treadmill",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Trail+Beanie",
+    "tags": [],
+    "avg_rating": 4.6,
+    "is_new": false,
+    "description": "A small upgrade that makes a real difference on training day."
+  },
+  {
+    "product_id": "PROD_080",
+    "name": "Nike Ankle Socks 3-Pack",
+    "category": "accessories",
+    "subcategory": "socks",
+    "price_inr": 3495,
+    "gender": "unisex",
+    "suitable_surfaces": [
+      "road",
+      "trail",
+      "treadmill",
+      "track"
+    ],
+    "suitable_goals": [
+      "5k",
+      "10k",
+      "half_marathon",
+      "marathon",
+      "general_fitness"
+    ],
+    "fitness_level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "replaces_product_id": null,
+    "image_url": "https://placehold.co/600x600/111111/FFFFFF?text=Nike+Ankle+Socks+3-Pack",
+    "tags": [],
+    "avg_rating": 4.8,
+    "is_new": true,
+    "description": "A small upgrade that makes a real difference on training day."
+  }
+]
