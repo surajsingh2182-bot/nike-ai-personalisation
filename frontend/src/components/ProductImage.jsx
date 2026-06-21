@@ -3,7 +3,9 @@ import { CATEGORY_COLOR, titleCase } from "../utils";
 // Real studio photos for shoes (distributed across a small pool so the grid
 // isn't repetitive) and tops; a clean named tile for everything else. Bundled
 // locally (frontend/public/products) so they load instantly and reliably.
-const SHOE_POOL = ["shoe-1.jpg", "shoe-2.jpg", "shoe-3.jpg"];
+const SHOE_POOL = [
+  "shoe-1.jpg", "shoe-2.jpg", "shoe-3.jpg", "shoe-4.jpg", "shoe-5.jpg",
+];
 const TOP_PHOTO = "top-1.jpg";
 
 function hash(str) {
