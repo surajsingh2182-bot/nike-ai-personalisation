@@ -10,7 +10,6 @@ export default function RecommendationGrid({ recommendations, debug, onAddToCart
       ? recommendations
       : recommendations.filter((r) => categoryBucket(r.category) === filter);
 
-  // Only show a filter if at least one recommendation falls in it.
   const available = FILTERS.filter(
     (f) =>
       f.key === "all" ||
@@ -19,31 +18,34 @@ export default function RecommendationGrid({ recommendations, debug, onAddToCart
 
   return (
     <div>
-      <div className="flex items-center gap-5 border-b border-line mb-5 overflow-x-auto">
-        {available.map((f) => (
-          <button
-            key={f.key}
-            type="button"
-            className="tab whitespace-nowrap"
-            data-active={filter === f.key}
-            onClick={() => setFilter(f.key)}
-          >
-            {f.label}
-          </button>
-        ))}
+      <div className="flex items-center justify-between gap-4 mb-7 flex-wrap">
+        <h2 className="nike-display text-2xl sm:text-3xl">Recommended for you</h2>
+        <nav className="flex items-center gap-6 overflow-x-auto">
+          {available.map((f) => (
+            <button
+              key={f.key}
+              type="button"
+              className="navlink"
+              data-active={filter === f.key}
+              onClick={() => setFilter(f.key)}
+            >
+              {f.label}
+            </button>
+          ))}
+        </nav>
       </div>
 
       {visible.length === 0 ? (
-        <p className="text-muted text-sm py-10 text-center">
+        <p className="text-grey py-12 text-center">
           Nothing in this category for this athlete. Try another filter.
         </p>
       ) : (
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+        <div className="grid grid-cols-2 lg:grid-cols-4 gap-x-4 gap-y-9">
           {visible.map((product, i) => (
             <div
               key={product.product_id}
               className="rise"
-              style={{ animationDelay: `${Math.min(i * 40, 320)}ms` }}
+              style={{ animationDelay: `${Math.min(i * 45, 360)}ms` }}
             >
               <ProductCard
                 product={product}

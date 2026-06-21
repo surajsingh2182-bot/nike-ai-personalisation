@@ -1,10 +1,8 @@
-// ON/OFF switch for personalisation. Orange when ON (PRD), ON by default.
+// ON/OFF switch for personalisation. Orange when ON, ON by default.
 export default function PersonalisationToggle({ on, onChange }) {
   return (
     <div className="flex items-center gap-2.5">
-      <span className="eyebrow text-white/70 hidden sm:inline">
-        Personalised for you
-      </span>
+      <span className="text-sm text-ink hidden md:inline">Personalised</span>
       <button
         type="button"
         role="switch"
@@ -14,7 +12,6 @@ export default function PersonalisationToggle({ on, onChange }) {
         data-on={on}
         onClick={() => onChange(!on)}
       />
-      <span className="eyebrow text-white w-7">{on ? "On" : "Off"}</span>
     </div>
   );
 }

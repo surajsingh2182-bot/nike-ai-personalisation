@@ -1,7 +1,5 @@
 import { useEffect } from "react";
 
-// "Why am I seeing this?" — explains the three ML layers in plain language and
-// lists the exact signals used for the selected athlete (PRD 11.2).
 const LAYERS = [
   {
     title: "We read your training",
@@ -34,46 +32,44 @@ export default function ExplainabilityModal({ profile, onClose, onTurnOff }) {
           role="dialog"
           aria-modal="true"
           aria-label="How Nike personalises your feed"
-          className="bg-paper rounded-xl max-w-lg w-full max-h-[88vh] overflow-y-auto rise"
+          className="bg-paper rounded-lg max-w-lg w-full max-h-[88vh] overflow-y-auto rise"
         >
-          <div className="bg-ink text-white p-5 flex justify-between items-start">
-            <h2 className="display text-2xl max-w-xs">
+          <div className="p-6 flex justify-between items-start border-b border-line">
+            <h2 className="nike-display text-2xl max-w-xs">
               How Nike personalises your feed
             </h2>
             <button
               type="button"
               onClick={onClose}
               aria-label="Close"
-              className="text-white/70 hover:text-white text-xl leading-none"
+              className="text-grey hover:text-ink text-xl leading-none"
             >
               ✕
             </button>
           </div>
 
-          <div className="p-5">
-            <ol className="space-y-4">
+          <div className="p-6">
+            <ol className="space-y-5">
               {LAYERS.map((layer, i) => (
-                <li key={layer.title} className="flex gap-3.5">
+                <li key={layer.title} className="flex gap-4">
                   <span className="stat-num text-orange text-xl shrink-0 w-6">
                     {i + 1}
                   </span>
                   <div>
-                    <h3 className="font-bold text-sm">{layer.title}</h3>
-                    <p className="text-muted text-sm mt-0.5">{layer.body}</p>
+                    <h3 className="font-medium text-[1rem]">{layer.title}</h3>
+                    <p className="text-grey text-sm mt-1">{layer.body}</p>
                   </div>
                 </li>
               ))}
             </ol>
 
             {signals.length > 0 && (
-              <div className="mt-6 bg-surface rounded-lg p-4">
+              <div className="mt-6 bg-grey-light rounded-lg p-4">
                 <p className="eyebrow text-ink mb-2">Your data used</p>
                 <ul className="space-y-1.5">
                   {signals.map((s) => (
                     <li key={s} className="text-sm flex gap-2">
-                      <span className="text-orange" aria-hidden>
-                        ✓
-                      </span>
+                      <span className="text-orange" aria-hidden>✓</span>
                       {s}
                     </li>
                   ))}
@@ -84,7 +80,7 @@ export default function ExplainabilityModal({ profile, onClose, onTurnOff }) {
             <button
               type="button"
               onClick={onTurnOff}
-              className="btn-cart w-full mt-5"
+              className="btn btn-dark w-full mt-6"
             >
               Turn off personalisation
             </button>

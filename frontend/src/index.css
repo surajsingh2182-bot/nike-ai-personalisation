@@ -1,34 +1,29 @@
 @import "tailwindcss";
 
 /* ----------------------------------------------------------------------
-   Design tokens — palette locked by the PRD (black / white / Nike orange).
-   The personality comes from the type treatment, not extra colour.
+   Nike.com design system — faithful reproduction.
+   Near-monochrome chrome (black / white / Nike grey). The one accent,
+   Nike orange, is reserved for the AI-personalisation layer only.
 ---------------------------------------------------------------------- */
 @theme {
-  --color-ink: #111111;
-  --color-ink-deep: #0a0a0a;
   --color-paper: #ffffff;
-  --color-orange: #fa5400;
-  --color-orange-press: #d94800;
-  --color-muted: #666666;
+  --color-ink: #111111;
+  --color-grey: #707072;        /* Nike secondary text */
+  --color-grey-light: #f5f5f5;  /* product tile / section surface */
   --color-line: #e5e5e5;
-  --color-surface: #f5f5f5;
+  --color-orange: #fa5400;      /* AI-layer accent only */
+  --color-orange-press: #d94800;
+  --color-sale: #fe0000;
 
-  --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-    Helvetica, Arial, sans-serif;
+  --font-sans: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-/* ----------------------------------------------------------------------
-   Base
----------------------------------------------------------------------- */
 * {
   box-sizing: border-box;
 }
-
 html {
   -webkit-text-size-adjust: 100%;
 }
-
 body {
   margin: 0;
   font-family: var(--font-sans);
@@ -39,7 +34,7 @@ body {
 }
 
 :focus-visible {
-  outline: 2px solid var(--color-orange);
+  outline: 2px solid var(--color-ink);
   outline-offset: 2px;
 }
 
@@ -53,108 +48,129 @@ body {
 }
 
 /* ----------------------------------------------------------------------
-   Type treatment — the athletic voice.
-   Heavy weight + tight tracking + uppercase = Nike condensed feel from a
-   plain system stack (no web fonts, per the PRD).
+   Type — Nike campaign voice: heavy, condensed, uppercase, tight.
 ---------------------------------------------------------------------- */
-.display {
-  font-weight: 900;
+.nike-display {
+  font-weight: 800;
   text-transform: uppercase;
-  letter-spacing: -0.03em;
-  line-height: 0.92;
+  letter-spacing: -0.025em;
+  line-height: 0.9;
+  font-stretch: condensed; /* harmless where unsupported */
 }
-
+.nike-italic {
+  font-style: italic;
+}
 .eyebrow {
-  font-size: 0.7rem;
+  font-size: 0.72rem;
   font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 0.22em;
+  letter-spacing: 0.02em;
 }
-
-.wordmark {
-  font-weight: 900;
-  font-style: italic;
-  letter-spacing: -0.04em;
-  text-transform: uppercase;
-}
-
 .stat-num {
-  font-weight: 900;
+  font-weight: 800;
   letter-spacing: -0.02em;
   line-height: 1;
   font-variant-numeric: tabular-nums;
 }
-
 .reason {
-  font-size: 0.6875rem; /* 11px per spec */
-  font-style: italic;
-  color: var(--color-muted);
-  line-height: 1.35;
+  font-size: 0.75rem;
+  color: var(--color-grey);
+  line-height: 1.4;
 }
 
 /* ----------------------------------------------------------------------
-   Components
+   Buttons — Nike pill.
 ---------------------------------------------------------------------- */
-
-/* Product card */
-.card {
-  background: var(--color-paper);
-  border: 1px solid var(--color-line);
-  border-radius: 8px;
-  overflow: hidden;
-  transition: box-shadow 0.18s ease, transform 0.18s ease,
-    border-color 0.18s ease;
-  display: flex;
-  flex-direction: column;
-}
-.card:hover {
-  box-shadow: 0 12px 28px -12px rgba(17, 17, 17, 0.35);
-  transform: translateY(-3px);
-  border-color: #d4d4d4;
-}
-.card--replace {
-  border-color: var(--color-orange);
-  box-shadow: 0 0 0 1px var(--color-orange);
-}
-
-/* Buttons */
-.btn-cart {
-  background: var(--color-ink);
-  color: var(--color-paper);
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
-  font-size: 0.8rem;
-  border: none;
-  border-radius: 999px;
-  padding: 0.6rem 1rem;
-  cursor: pointer;
-  transition: background 0.16s ease;
-}
-.btn-cart:hover {
-  background: var(--color-orange);
-}
-
-/* Pills / chips */
-.chip {
+.btn {
   display: inline-flex;
   align-items: center;
-  gap: 0.3rem;
-  font-size: 0.625rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-  padding: 0.2rem 0.5rem;
+  justify-content: center;
+  font-weight: 500;
+  font-size: 0.95rem;
   border-radius: 999px;
+  padding: 0.6rem 1.4rem;
+  cursor: pointer;
+  border: 1px solid transparent;
+  transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+}
+.btn-dark {
+  background: var(--color-ink);
+  color: #fff;
+}
+.btn-dark:hover {
+  background: #3a3a3a;
+}
+.btn-ghost {
+  background: transparent;
+  color: var(--color-ink);
+  border-color: #cacacb;
+}
+.btn-ghost:hover {
+  border-color: var(--color-ink);
+}
+.btn-light {
+  background: #fff;
+  color: var(--color-ink);
+}
+.btn-light:hover {
+  background: var(--color-grey-light);
 }
 
-/* Toggle switch — orange when ON (spec) */
+/* ----------------------------------------------------------------------
+   Product card — Nike: borderless, square, light-grey image tile.
+---------------------------------------------------------------------- */
+.card {
+  background: var(--color-paper);
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+.card-media {
+  background: var(--color-grey-light);
+  overflow: hidden;
+  position: relative;
+}
+.card-media img,
+.card-media svg {
+  display: block;
+  width: 100%;
+  transition: transform 0.4s ease;
+}
+.card:hover .card-media img,
+.card:hover .card-media svg {
+  transform: scale(1.04);
+}
+.card--replace .card-media {
+  box-shadow: inset 0 0 0 2px var(--color-orange);
+}
+
+/* The cart pill reveals on hover (desktop), always visible on touch */
+.card-cart {
+  opacity: 0;
+  transform: translateY(6px);
+  transition: opacity 0.18s ease, transform 0.18s ease;
+}
+.card:hover .card-cart,
+.card:focus-within .card-cart {
+  opacity: 1;
+  transform: translateY(0);
+}
+@media (hover: none) {
+  .card-cart {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+/* ----------------------------------------------------------------------
+   Toggle — minimal; Nike grey track, orange when ON (AI accent).
+---------------------------------------------------------------------- */
 .switch {
   position: relative;
-  width: 46px;
-  height: 26px;
+  width: 42px;
+  height: 24px;
   border-radius: 999px;
-  background: #3a3a3a;
+  background: #cacacb;
   transition: background 0.18s ease;
   cursor: pointer;
   flex-shrink: 0;
@@ -168,88 +184,73 @@ body {
   position: absolute;
   top: 3px;
   left: 3px;
-  width: 20px;
-  height: 20px;
+  width: 18px;
+  height: 18px;
   border-radius: 50%;
   background: #fff;
   transition: transform 0.18s ease;
 }
 .switch[data-on="true"]::after {
-  transform: translateX(20px);
+  transform: translateX(18px);
 }
 
-/* Filter tabs */
-.tab {
-  font-size: 0.78rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.06em;
-  padding: 0.5rem 0.1rem;
-  color: var(--color-muted);
+/* ----------------------------------------------------------------------
+   Category nav (Nike secondary nav look) + filter tabs
+---------------------------------------------------------------------- */
+.navlink {
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: var(--color-ink);
+  padding: 0.4rem 0;
+  position: relative;
+  cursor: pointer;
   border: none;
   background: none;
-  cursor: pointer;
-  border-bottom: 2px solid transparent;
-  transition: color 0.15s ease, border-color 0.15s ease;
+  white-space: nowrap;
 }
-.tab:hover {
-  color: var(--color-ink);
+.navlink::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -2px;
+  height: 2px;
+  background: var(--color-ink);
+  transform: scaleX(0);
+  transition: transform 0.18s ease;
 }
-.tab[data-active="true"] {
-  color: var(--color-ink);
-  border-bottom-color: var(--color-orange);
+.navlink:hover::after,
+.navlink[data-active="true"]::after {
+  transform: scaleX(1);
 }
 
-/* Entrance animation for the grid on profile change */
+/* ----------------------------------------------------------------------
+   Motion
+---------------------------------------------------------------------- */
 @keyframes rise {
-  from {
-    opacity: 0;
-    transform: translateY(10px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
+  from { opacity: 0; transform: translateY(12px); }
+  to   { opacity: 1; transform: translateY(0); }
 }
-.rise {
-  animation: rise 0.35s ease both;
-}
+.rise { animation: rise 0.4s ease both; }
 
-/* Drawer + modal backdrops */
 .backdrop {
   position: fixed;
   inset: 0;
-  background: rgba(10, 10, 10, 0.55);
+  background: rgba(17, 17, 17, 0.5);
   z-index: 40;
   animation: fade 0.2s ease both;
 }
-@keyframes fade {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
-}
-@keyframes slidein {
-  from {
-    transform: translateX(100%);
-  }
-  to {
-    transform: translateX(0);
-  }
-}
-.drawer {
-  animation: slidein 0.28s cubic-bezier(0.16, 1, 0.3, 1) both;
-}
+@keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+@keyframes slidein { from { transform: translateX(100%); } to { transform: translateX(0); } }
+.drawer { animation: slidein 0.3s cubic-bezier(0.16, 1, 0.3, 1) both; }
 
-/* Native select restyle */
+/* Native select restyle — dark on white (Nike header) */
 .select-native {
   appearance: none;
   background: transparent;
   border: none;
-  color: #fff;
-  font-weight: 700;
+  color: var(--color-ink);
+  font-weight: 500;
   font-size: 0.95rem;
   cursor: pointer;
   padding-right: 1.1rem;
