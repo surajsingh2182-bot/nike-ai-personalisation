@@ -1,12 +1,40 @@
-import { CATEGORY_COLOR } from "../utils";
+import { CATEGORY_COLOR, titleCase } from "../utils";
 
-const SWOOSH =
-  "M24 7.8L6.442 15.276c-1.456.616-2.679.925-3.668.925-1.12 0-1.933-.392-2.437-1.177-.317-.504-.41-1.143-.28-1.918.13-.775.476-1.6 1.036-2.478.467-.71 1.232-1.643 2.297-2.8a6.122 6.122 0 00-.784 1.848c-.28 1.195-.028 2.072.756 2.632.373.261.886.392 1.54.392.522 0 1.11-.084 1.764-.252L24 7.8z";
+// Real studio photos for shoes (distributed across a small pool so the grid
+// isn't repetitive) and tops; a clean named tile for everything else. Bundled
+// locally (frontend/public/products) so they load instantly and reliably.
+const SHOE_POOL = ["shoe-1.jpg", "shoe-2.jpg", "shoe-3.jpg"];
+const TOP_PHOTO = "top-1.jpg";
 
-// Nike-style product tile: a light-grey card with a faint swoosh watermark
-// (tinted by category) and the product name set in black. No external image
-// host — loads instantly, looks like a Nike grid tile.
+function hash(str) {
+  let h = 0;
+  for (let i = 0; i < str.length; i++) h = (h * 31 + str.charCodeAt(i)) >>> 0;
+  return h;
+}
+
+function photoFor(name, category) {
+  if (category.endsWith("_shoes")) {
+    return SHOE_POOL[hash(name) % SHOE_POOL.length];
+  }
+  if (category === "running_apparel_top") return TOP_PHOTO;
+  return null;
+}
+
 export default function ProductImage({ name, category }) {
+  const photo = photoFor(name, category);
+
+  if (photo) {
+    return (
+      <img
+        src={`/products/${photo}`}
+        alt={name}
+        loading="lazy"
+        className="w-full aspect-square object-cover"
+      />
+    );
+  }
+
+  // Clean named tile (apparel bottoms, training apparel, accessories).
   const accent = CATEGORY_COLOR[category] || "#111111";
   const shortName = name.replace(/^Nike\s+/, "");
   const display = shortName.length > 18 ? shortName.slice(0, 17) + "…" : shortName;
@@ -20,13 +48,10 @@ export default function ProductImage({ name, category }) {
       preserveAspectRatio="xMidYMid slice"
     >
       <rect width="600" height="600" fill="#f5f5f5" />
-      {/* swoosh watermark, tinted by category */}
-      <g transform="translate(150 250) scale(13)" fill={accent} opacity="0.16">
-        <path d={SWOOSH} />
-      </g>
+      <rect x="0" y="0" width="600" height="10" fill={accent} />
       <text
         x="44"
-        y="92"
+        y="96"
         fill="#111111"
         fontFamily="'Helvetica Neue', Arial, sans-serif"
         fontWeight="700"
@@ -37,11 +62,22 @@ export default function ProductImage({ name, category }) {
       </text>
       <text
         x="44"
-        y="520"
+        y="128"
+        fill={accent}
+        fontFamily="'Helvetica Neue', Arial, sans-serif"
+        fontWeight="700"
+        fontSize="15"
+        letterSpacing="2"
+      >
+        {titleCase(category).toUpperCase()}
+      </text>
+      <text
+        x="44"
+        y="510"
         fill="#111111"
         fontFamily="'Helvetica Neue', Arial, sans-serif"
         fontWeight="800"
-        fontSize="46"
+        fontSize="48"
         letterSpacing="-1"
       >
         {display}
