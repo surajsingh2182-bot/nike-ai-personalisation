@@ -139,7 +139,7 @@ export default function Tour({ run, appState, onClose }) {
   const caretLeft = Math.max(18, Math.min(targetCx - bubbleLeft, bubbleW - 18));
 
   return (
-    <div className="fixed inset-0 z-[100]" aria-live="polite">
+    <div className="fixed inset-0 z-[100] pointer-events-none" aria-live="polite">
       {/* Spotlight cutout */}
       <div
         className="absolute rounded-xl pointer-events-none transition-all duration-300"
