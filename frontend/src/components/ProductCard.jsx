@@ -45,7 +45,7 @@ export default function ProductCard({ product, debug, onAddToCart }) {
         </div>
 
         {/* The AI-personalisation layer: why this product, for this athlete */}
-        <p className="reason mt-2 pl-2.5 border-l-2 border-orange">
+        <p data-tour="reason" className="reason mt-2 pl-2.5 border-l-2 border-orange">
           {product.reason}
         </p>
 

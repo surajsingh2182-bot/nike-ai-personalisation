@@ -7,7 +7,7 @@ export default function ProfileSelector({ users, value, onChange }) {
   }, {});
 
   return (
-    <label className="flex items-center gap-2 cursor-pointer min-w-0">
+    <label data-tour="profile" className="flex items-center gap-2 cursor-pointer min-w-0">
       <span className="text-grey text-sm hidden md:inline">Viewing as</span>
       <span className="relative flex items-center">
         <select

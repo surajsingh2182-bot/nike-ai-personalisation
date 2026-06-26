@@ -1,5 +1,6 @@
-import { useEffect, useState, useCallback } from "react";
+import { useEffect, useState, useCallback, useRef } from "react";
 import { nikeApi } from "./api/nikeApi";
+import Tour from "./components/Tour";
 import { useRecommendations } from "./hooks/useRecommendations";
 import Swoosh from "./components/Swoosh";
 import ProfileSelector from "./components/ProfileSelector";
@@ -46,6 +47,8 @@ export default function App() {
   const [modalOpen, setModalOpen] = useState(false);
   const [toast, setToast] = useState(null);
   const [backendState, setBackendState] = useState("warming");
+  const [tourRun, setTourRun] = useState(false);
+  const tourStarted = useRef(false);
 
   useEffect(() => {
     let cancelled = false;
@@ -81,6 +84,23 @@ export default function App() {
     setTimeout(() => setToast(null), 2400);
   }, []);
 
+  // Auto-start the guided tour on a first visit (or with ?tour=1).
+  useEffect(() => {
+    if (backendState !== "ready" || tourStarted.current) return;
+    const force =
+      new URLSearchParams(window.location.search).get("tour") === "1";
+    if (force || !localStorage.getItem("nikeTourSeen")) {
+      tourStarted.current = true;
+      const t = setTimeout(() => setTourRun(true), 700);
+      return () => clearTimeout(t);
+    }
+  }, [backendState]);
+
+  const endTour = useCallback(() => {
+    setTourRun(false);
+    localStorage.setItem("nikeTourSeen", "1");
+  }, []);
+
   const recommendations = data?.recommendations || [];
 
   return (
@@ -90,18 +110,28 @@ export default function App() {
         <div className="mx-auto max-w-[1400px] px-5 sm:px-10 h-9 flex items-center justify-between text-[0.78rem]">
           <span className="hidden sm:inline">AI Personalisation · prototype</span>
           {backendState === "ready" && (
-            <div className="flex items-center gap-4 ml-auto">
+            <div className="flex items-center gap-3 sm:gap-4 ml-auto whitespace-nowrap">
               <button
                 type="button"
-                className="hover:text-ink"
-                onClick={() => setModalOpen(true)}
+                className="hover:text-ink font-medium text-ink"
+                onClick={() => setTourRun(true)}
               >
-                Why am I seeing this?
+                Take a tour
               </button>
               <span className="text-line" aria-hidden>|</span>
               <button
                 type="button"
+                data-tour="why"
                 className="hover:text-ink"
+                onClick={() => setModalOpen(true)}
+              >
+                Why this feed
+              </button>
+              <span className="text-line hidden sm:inline" aria-hidden>|</span>
+              <button
+                type="button"
+                data-tour="athlete-card"
+                className="hover:text-ink hidden sm:inline"
                 onClick={() => setDrawerOpen(true)}
               >
                 Athlete card
@@ -260,6 +290,13 @@ export default function App() {
           }}
         />
       )}
+
+      {/* Guided tour / coach marks */}
+      <Tour
+        run={tourRun && backendState === "ready"}
+        appState={{ selectedUserId, personalised }}
+        onClose={endTour}
+      />
 
       {/* Toast */}
       {toast && (

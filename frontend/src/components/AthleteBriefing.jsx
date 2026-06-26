@@ -60,7 +60,7 @@ export default function AthleteBriefing({
           aria-hidden
         />
 
-        <div className="relative z-10 text-center px-5 py-16 on-image">
+        <div data-tour="hero" className="relative z-10 text-center px-5 py-16 on-image">
           <p className="eyebrow text-orange">{eyebrow}</p>
           <h1 className="nike-display nike-italic text-white text-[2.6rem] leading-[0.92] sm:text-7xl mt-3">
             {line1}
