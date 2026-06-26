@@ -20,7 +20,7 @@ export default function RecommendationGrid({ recommendations, debug, onAddToCart
     <div>
       <div className="flex items-center justify-between gap-4 mb-7 flex-wrap">
         <h2 className="nike-display text-2xl sm:text-3xl">Recommended for you</h2>
-        <nav className="flex items-center gap-6 overflow-x-auto">
+        <nav data-tour="filters" className="flex items-center gap-6 overflow-x-auto">
           {available.map((f) => (
             <button
               key={f.key}

@@ -5,7 +5,7 @@ export default function ProductCard({ product, debug, onAddToCart }) {
   const isReplacement = product.reason_type === "shoe_replacement";
 
   return (
-    <article className={`card ${isReplacement ? "card--replace" : ""}`}>
+    <article data-tour="card" className={`card ${isReplacement ? "card--replace" : ""}`}>
       <div className="card-media">
         <ProductImage name={product.name} category={product.category} />
         {isReplacement && (
@@ -16,6 +16,7 @@ export default function ProductCard({ product, debug, onAddToCart }) {
         <div className="absolute bottom-3 right-3 left-3 flex justify-end">
           <button
             type="button"
+            data-tour="addbag"
             className="card-cart btn btn-dark text-sm"
             onClick={() => onAddToCart(product)}
           >

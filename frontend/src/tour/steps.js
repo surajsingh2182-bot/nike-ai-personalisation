@@ -36,10 +36,31 @@ export const TOUR_STEPS = [
     placement: "bottom",
   },
   {
+    id: "filters",
+    target: "filters",
+    title: "Filter the feed",
+    body: "Narrow the recommendations to shoes, apparel, or accessories. The tabs only appear for categories this athlete actually has.",
+    placement: "bottom",
+  },
+  {
     id: "reason",
     target: "reason",
     title: "Why this product",
     body: "Every card explains, in plain language, why it was picked for this athlete. No black box.",
+    placement: "top",
+  },
+  {
+    id: "addbag",
+    target: "addbag",
+    title: "Add to bag",
+    body: "Every product has a quick add-to-bag. This is a prototype, so it shows a friendly toast instead of a real checkout.",
+    placement: "top",
+  },
+  {
+    id: "debug",
+    target: "card",
+    title: "Look under the hood",
+    body: "Curious how it ranked these? Add ?debug=true to the URL and each card shows its content-match and final scores.",
     placement: "top",
   },
   {

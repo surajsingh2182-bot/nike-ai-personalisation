@@ -71,6 +71,12 @@ export default function Tour({ run, appState, onClose }) {
     return () => window.removeEventListener("keydown", onKey);
   }, [run, onClose]);
 
+  // Reveal hover-only targets (e.g. add-to-bag) while the tour runs.
+  useEffect(() => {
+    document.documentElement.classList.toggle("tour-running", run);
+    return () => document.documentElement.classList.remove("tour-running");
+  }, [run]);
+
   if (!run || !step) return null;
 
   const next = () => (isLast ? onClose() : setIndex((i) => i + 1));
