@@ -84,22 +84,17 @@ export default function App() {
     setTimeout(() => setToast(null), 2400);
   }, []);
 
-  // Auto-start the guided tour on a first visit (or with ?tour=1).
+  // Auto-start the guided tour on every page load (once the backend is ready).
+  // tourStarted resets on each fresh mount, so a refresh re-runs the tour;
+  // it won't relaunch within the same session after being dismissed.
   useEffect(() => {
     if (backendState !== "ready" || tourStarted.current) return;
-    const force =
-      new URLSearchParams(window.location.search).get("tour") === "1";
-    if (force || !localStorage.getItem("nikeTourSeen")) {
-      tourStarted.current = true;
-      const t = setTimeout(() => setTourRun(true), 700);
-      return () => clearTimeout(t);
-    }
+    tourStarted.current = true;
+    const t = setTimeout(() => setTourRun(true), 700);
+    return () => clearTimeout(t);
   }, [backendState]);
 
-  const endTour = useCallback(() => {
-    setTourRun(false);
-    localStorage.setItem("nikeTourSeen", "1");
-  }, []);
+  const endTour = useCallback(() => setTourRun(false), []);
 
   const recommendations = data?.recommendations || [];
 
